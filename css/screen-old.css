@@ -1,0 +1,325 @@
+body {
+	font-family: 'Muli', sans-serif;
+	/* line-height: 2.2em; */
+	line-height: normal;
+	color: black;
+}
+
+header p {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	padding: 1ex 2ex;
+	background: #cfc;
+}
+
+footer p {
+	border-top: dashed 1px silver;
+}
+
+footer p, footer p a {
+	color: gray;
+	font-size: small;
+	margin: 1em 0px -1ex 0px;
+}
+
+blockquote p, blockquote footer {
+	max-width: 60ex;
+	font-size: smaller;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+blockquote p {
+	text-align: center;
+	padding-left: 10%;
+	padding-right: 10%;
+	font-style: italic;
+}
+
+img#imagineshort {
+	width: 60%;
+	margin: 0px auto;
+	min-width: 400px;
+}
+
+blockquote footer {
+	padding-left: 10%;
+	padding-right: 10%;
+	text-align: right;
+}
+
+.mapbacked {
+	background: -webkit-linear-gradient(rgba(255,255,255,1),rgba(255,255,255,0.7),rgba(255,255,255,0.7),rgba(255,255,255,0.7),rgba(255,255,255,1)), url("/images/mapscreenshot");
+	background: -moz-linear-gradient(rgba(255,255,255,1),rgba(255,255,255,0.7),rgba(255,255,255,0.7),rgba(255,255,255,0.7),rgba(255,255,255,1)), url("/images/mapscreenshot");
+	background: linear-gradient(rgba(255,255,255,1),rgba(255,255,255,0.7),rgba(255,255,255,0.7),rgba(255,255,255,0.7),rgba(255,255,255,1)), url("/images/mapscreenshot");
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
+p, figcaption {
+	padding: 1em 0px;
+}
+
+
+h1 {
+	padding: 0.4em 0px;
+	font-size: 200%;
+}
+
+h2 {
+	padding-bottom: 1em;
+	font-size: 160%;
+}
+
+blockquote, p.majorpoint {
+	font-size: 140%;
+	padding-top: 1ex;
+	padding-bottom: 1.8ex;
+}
+
+p.spaceblack {
+	width: 100%;
+	min-height: 100px;
+	min-height: 30%;
+	background: url('/images/wikipedia-solar-system-scale') left 80%;
+	background-size: cover;
+	font-size: 360%;
+	text-shadow: 0px 0px 6px rgba(255, 255, 255, 0.7);
+	color: rgba(255, 51, 51, 0.4);
+	letter-spacing: -0.33ex;
+	word-spacing: 1.1ex;
+}
+
+dl dt {
+	margin-bottom: 0.9px;
+	padding-top: 1em;
+	padding-bottom: 1ex;
+	font-size: larger;
+}
+
+
+dl dd {
+	margin-left: 3em;
+	margin-top: 0.9px;
+}
+
+dl {
+	margin: 1ex 0px 3ex 0px;
+}
+
+hr {
+	margin: 3em -5%;
+}
+
+i {
+	font-style: italic;
+}
+
+th {
+	font-weight: bolder;
+}
+
+tr.headerrow th {
+	padding: 1.3ex 0ex;
+}
+
+tr.topheader th {
+	padding-left: 4ex;
+	padding-right: 4ex;
+}
+
+td, th {
+	padding: 0.3ex 1.3ex;
+}
+
+td.n {
+	text-align: right;
+}
+
+figure.standalone {
+	font-size: smaller;
+	border-left: dotted 4px #06c;
+	padding-bottom: 1ex;
+}
+
+figure, table {
+	margin: 1em 0px 1ex 0px;
+	padding: 0px 2ex;
+}
+
+table caption {
+	font-weight: bolder;
+	text-decoration: underline;
+	margin: 0px 1ex 1ex 1ex;
+}
+
+table td, table th {
+	font-size: smaller;
+}
+
+table tr.no * {
+	text-decoration: line-through;
+}
+
+ul li {
+	margin: 0.4ex 0px 0.4ex 5ex;
+	list-style-type: square;
+}
+
+ul li ul li {
+	list-style-type: circle;
+}
+
+div.topicon {
+	position: absolute;
+	top: 1em;
+	right: 1em;
+}
+
+/*
+h1 a.topicon img {
+	position: relative;
+	left: 1em;
+	width: 3em;
+	vertical-align: top;
+}
+*/
+
+@media (min-width: 1250px) {
+
+
+body {
+	margin: 2em 140px 0px 2em;
+	font-size: 24px;
+}
+
+div.topicon img {
+    opacity: 0.4;
+    filter: alpha(opacity=40);
+}
+
+p.spaceblack {
+	margin-left: -140px;
+	padding: 140px;
+	padding-bottom: 0.7ex;
+}
+
+
+}
+
+
+@media (max-width: 1250px) and (min-width: 1000px) {
+
+
+body {
+	margin: 2em 100px 0px 2em;
+	font-size: 22px;
+}
+
+p.spaceblack {
+	margin-left: -100px;
+	padding: 100px;
+	padding-bottom: 0.7ex;
+}
+
+div.topicon img {
+	width: 250px;
+}
+
+div.topicon img {
+    opacity: 0.4;
+    filter: alpha(opacity=40);
+}
+
+
+}
+
+
+@media (max-width: 1000px) and (min-width: 800px) {
+
+
+body {
+	margin: 2em 50px 0px 2em;
+	font-size: 18px;
+}
+
+p.spaceblack {
+	margin-left: -50px;
+	padding: 50px;
+	padding-bottom: 0.7ex;
+}
+
+div.topicon img {
+	width: 200px;
+}
+
+div.topicon img {
+    opacity: 0.4;
+    filter: alpha(opacity=40);
+}
+
+
+}
+
+
+
+@media (max-width: 800px) and (min-width: 600px) {
+
+
+body {
+	margin: 2em 50px 0px 2em;
+	font-size: 14px;
+}
+
+p.spaceblack {
+	margin-left: -50px;
+	padding: 50px;
+	padding-bottom: 0.7ex;
+}
+
+div.topicon img {
+	width: 175px;
+}
+
+div.topicon img {
+    opacity: 0.4;
+    filter: alpha(opacity=40);
+}
+
+
+}
+
+
+
+@media (max-width: 600px) {
+
+
+body {
+	margin: 2em 10px 0px 2em;
+	font-size: 12px;
+}
+
+p.spaceblack {
+	margin-left: -10px;
+	padding: 10px;
+	padding-bottom: 0.7ex;
+}
+
+p.spaceblack img.wideleft {
+	margin-left: -10px !important;
+	margin-right: -10px !important;
+}
+
+div.topicon img {
+	width: 100px;
+}
+
+div.topicon {
+	margin-left: auto;
+	margin-right: auto;
+	position: inherit;
+	text-align: center;
+}
+
+}

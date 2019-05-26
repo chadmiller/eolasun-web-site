@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>planet list of Orlando Solar-System Model</title>
+<link href='//fonts.googleapis.com/css?family=Muli:400,400italic' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" type="text/css" href="css/reset">
+<link rel="stylesheet" type="text/css" href="css/local">
+<link rel="apple-touch-icon" href="images/osm-icon-192.png">
+<link rel="icon" type="image/x-icon" href="images/favicon" />
+<link rel="icon" type="image/x-icon" sizes="192x192" href="images/osm-icon-192">
+<meta name="theme-color" content="#eeee22">
+</head>
+<body>
+
+<div class="topicon"><a href="/"><img alt="" src="images/osm-icon-350-transparent" /></a></div>
+
+<h1>Some proposed locations</h1>
+
+<p>
+Final decision of where to place these bodies will come in time, influenced by buy-in and eagerness of participating volunteers.
+The orbits of the planets are already calculated with the 18m Lake Eola fountain at the center, and that constrains the orbits. Here are the candidates.
+</p>
+
+<p class="mapbacked">
+You might be better off <a href="map" target="map">seeing these mapped</a>.
+Orbits are elliptical, not circular, so we have a little flexibility about how
+far away from the Sun our planets are.
+</p>
+
+<dl id="mapdata"></dl>
+
+<p id="lastmodified">Working...</p>
+
+<p>
+At this scale, the next nearest star, <i>Proxima Centauri</i> is 520 thousand kilometers away.
+</p>
+
+<p>
+If you want to explore the math that goes into these calculations, <a href="solar%20model%20calculation.ods">you can try out the spreadsheet (Open Doc Format, great with Openoffice or Libreoffice)</a>.
+</p>
+
+<footer>
+<p class="attrib">Unless noted, everything is <a rel="license" href="http//creativecommons.org/licenses/by/4.0/"> CC-by</a>, from <a rel="author" href="http://chad.org/">Chad Miller</a>.</p>
+</footer>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-986714-10', 'auto');
+  ga('send', 'pageview');
+
+  function receive_request() {
+    var dl = document.getElementById("mapdata");
+    var lastmod_para = document.getElementById("lastmodified");
+
+    var lastmod_date = this.getResponseHeader("Last-Modified");
+    if (lastmod_date) {
+      lastmod_para.innerHTML = "List last updated at " + lastmod_date + ".";
+    } else {
+      lastmod_para.parentNode.removeChild(lastmod_para);
+    }
+
+    pinpoints_xml = this.responseXML;
+
+    // DLs are context-dependent, so we can't pack things in. We organize
+    // pinpoints by the planet name in their Description, and then publish each
+    // Dd after each planet name Dt. Two stagest. First, create buckets.
+    var planets = new Array();
+    var planet_names = [ "Mercury", "Venus", "Earth", "Mars", "Ceres", "Jupiter", "Saturn", "Uranus", "Neptune", "Pluto", "Eris" ];
+    for (pi in planet_names) {
+      planet = planet_names[pi];
+      planets[planet] = new Array();
+    }
+
+    //resolver = pinpoints_xml.createNSResolver(pinpoints_xml.ownerDocument == null ? pinpoints_xml.documentElement : pinpoints_xml.ownerDocument.documentElement);
+
+    function resolver() {
+        return "http//www.opengis.net/kml/2.2";
+    }
+    var xpath_expression = "//*[local-name()='Placemark']";
+
+    var placemarks_it = pinpoints_xml.evaluate(xpath_expression, pinpoints_xml, resolver, XPathResult.ANY_TYPE, null);
+
+    var placemark = placemarks_it.iterateNext();
+    if (! placemark) { console.log("your xpath is wrong! Expression >" + xpath_expression + "<.  And the doc:"); console.log(pinpoints_xml); }
+    while (placemark) {
+      try {
+        var site_name = placemark.getElementsByTagName("name")[0].textContent;
+        var orbit_name = placemark.getElementsByTagName("description")[0].textContent;
+        var lonlatalt = placemark.getElementsByTagName("coordinates")[0].textContent.split(",");
+        var style = placemark.getElementsByTagName("styleUrl")[0].textContent.substring(1);
+      } catch(exc) {
+        console.log(placemark);
+      } 
+
+      arr = planets[orbit_name];
+      try {
+        nth = arr.length;
+        arr[nth] = new Array();
+        arr[nth][0] = site_name;
+        arr[nth][1] = "" + lonlatalt[1] + "," + lonlatalt[0];
+        arr[nth][2] = style;
+      } catch (exc) {
+        console.log("Orbit name >" + orbit_name + "< is not a known body.");
+      }
+
+      placemark = placemarks_it.iterateNext();
+    }
+
+    // Now, go through each planet name and make Dts if there are any in its
+    // bucket. Add the Dt and each Dd after it.
+
+    for (pi in planet_names) {
+      planet = planet_names[pi];
+
+      if (planets[planet].length > 0) {
+        var dt = document.createElement("dt");
+        planetlink = document.createElement("a");
+        planetlink.setAttribute("href", planet.toLowerCase());
+        planetlink.appendChild(document.createTextNode(planet));
+        dt.appendChild(planetlink);
+        dl.appendChild(dt);
+
+        planets[planet].sort();
+        for (si in planets[planet]) {
+          var site_name = planets[planet][si][0];
+          var coords = planets[planet][si][1];
+          var dd = document.createElement("dd");
+          var a = document.createElement("a");
+          var span = document.createElement("span");
+          var data = document.createElement("data");
+          a.setAttribute("href", "/map#loc"+coords); 
+          if ("onhashchange" in window) {
+            a.setAttribute("target", "map"); 
+          }
+          a.appendChild(document.createTextNode(site_name));
+          dd.appendChild(a);
+          span.appendChild(document.createTextNode(" at "));
+          span.setAttribute("class", "description");
+          data.appendChild(document.createTextNode(planets[planet][si][1]))
+          data.setAttribute("value", planets[planet][si][1]);
+          span.appendChild(data);
+          dd.appendChild(span);
+          dd.setAttribute("class", planets[planet][si][2]);
+          dl.appendChild(dd);
+        }
+      }
+    }
+  }
+
+  var pinpoints_url = "mapdata/pinpoints.kml";
+  var xmlhr = new XMLHttpRequest();
+  xmlhr.onload = receive_request;
+  xmlhr.open("get", pinpoints_url, true);
+  xmlhr.send();
+
+</script>
+</body>
+</html>

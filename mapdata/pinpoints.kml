@@ -1,0 +1,465 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Points</name>
+		<Placemark id="ocho">
+			<styleUrl>#proposed</styleUrl>
+			<name>Orlando City Hall</name>
+			<description><![CDATA[Mercury]]></description>
+			<Point>
+				<coordinates>-81.379002,28.538141,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="hmsm">
+			<styleUrl>#proposed</styleUrl>
+			<name>Howard Middle School, OCPS</name>
+			<description><![CDATA[Mercury]]></description>
+			<Point>
+				<coordinates>-81.366548,28.545624,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="gwm">
+			<styleUrl>#proposed</styleUrl>
+			<name>Gertrude's Walk, Orlando</name>
+			<description><![CDATA[Mercury]]></description>
+			<Point>
+				<coordinates>-81.380968,28.544417,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="occm">
+			<styleUrl>#proposed</styleUrl>
+			<name>Orange County Courthouse, Orange</name>
+			<description><![CDATA[Mercury]]></description>
+			<Point>
+				<coordinates>-81.378951,28.547735,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="cpov">
+			<styleUrl>#proposed</styleUrl>
+			<name>Cherokee Park, Orlando</name>
+			<description><![CDATA[Venus]]></description>
+			<Point>
+				<coordinates>-81.368483,28.531628,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="acpov">
+			<styleUrl>#proposed</styleUrl>
+			<name>Al Coith Park, Orlando</name>
+			<description><![CDATA[Venus]]></description>
+			<Point>
+				<coordinates>-81.374745,28.531222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="lpov">
+			<styleUrl>#proposed</styleUrl>
+			<name>Langford Park</name>
+			<description><![CDATA[Venus]]></description>
+			<Point>
+				<coordinates>-81.387190,28.544681,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="fieav">
+			<styleUrl>#proposed</styleUrl>
+			<name>FIEA, UCF, Orlando</name>
+			<description><![CDATA[Venus]]></description>
+			<Point>
+				<coordinates>-81.384787,28.550901,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="acov">
+			<styleUrl>#proposed</styleUrl>
+			<name>Amway Center, Orlando</name>
+			<description><![CDATA[Venus]]></description>
+			<Point>
+				<coordinates>-81.384787,28.536689,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="dapov">
+			<styleUrl>#proposed</styleUrl>
+			<name>Dickson Azalea Park, Orlando</name>
+			<description><![CDATA[Venus]]></description>
+			<Point>
+				<coordinates>-81.358702,28.545486,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="gepoe">
+			<styleUrl>#proposed</styleUrl>
+			<name>Gaston Edwards Park, Orlando</name>
+			<description><![CDATA[Earth]]></description>
+			<Point>
+				<coordinates>-81.380066,28.560250,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="gspoe">
+			<styleUrl>#proposed</styleUrl>
+			<name>Grant St Park, Orlando</name>
+			<description><![CDATA[Mars]]></description>
+			<Point>
+				<coordinates>-81.389207,28.523869,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="zlroe">
+			<styleUrl>#proposed</styleUrl>
+			<name>Z L Reily Park, Orlando</name>
+			<description><![CDATA[Earth]]></description>
+			<Point>
+				<coordinates>-81.388826,28.533510,0</coordinates>
+			</Point>
+		</Placemark>
+		<!--Placemark id="oe">
+			<styleUrl>#proposed</styleUrl>
+			<name>Orlando</name>
+			<description><![CDATA[Earth]]></description>
+			<Point>
+				<coordinates>-81.390838,28.551090,0</coordinates>
+			</Point>
+		</Placemark-->
+		<Placemark id="outoe">
+			<styleUrl>#proposed</styleUrl>
+			<name>Orlando Urban Trail, Orlando</name>
+			<description><![CDATA[Earth]]></description>
+			<Point>
+				<coordinates>-81.37255,28.5610435,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="peoe">
+			<styleUrl>#proposed</styleUrl>
+			<name>Princeton Elementary, OCPS</name>
+			<description><![CDATA[Mars]]></description>
+			<Point>
+				<coordinates>-81.383409,28.571369,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="bhsom">
+			<styleUrl>#proposed</styleUrl>
+			<name>Boone HS, OCPS</name>
+			<description><![CDATA[Mars]]></description>
+			<Point>
+				<coordinates>-81.364402,28.518319,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="bk8om">
+			<styleUrl>#proposed</styleUrl>
+			<name>Blanker K-8, OCPS</name>
+			<description><![CDATA[Mars]]></description>
+			<Point>
+				<coordinates>-81.364550,28.515252,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="wpom">
+			<styleUrl>#proposed</styleUrl>
+			<name>Wadeview Park, Orlando</name>
+			<description><![CDATA[Mars]]></description>
+			<Point>
+				<coordinates>-81.368393,28.518477,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="lceom">
+			<styleUrl>#proposed</styleUrl>
+			<name>Lake Como Elementary, OCPS</name>
+			<description><![CDATA[Mars]]></description>
+			<Point>
+				<coordinates>-81.349277,28.531654,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="lhpom">
+			<styleUrl>#proposed</styleUrl>
+			<name>Loch Haven Park/OSC, Orlando</name>
+			<description><![CDATA[Mars]]></description>
+			<Point>
+				<coordinates>-81.367664,28.571557,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ldpom">
+			<styleUrl>#proposed</styleUrl>
+			<name>Lorna Doone Park, Orlando</name>
+			<description><![CDATA[Mars]]></description>
+			<Point>
+				<coordinates>-81.401267,28.541100,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="jhom">
+			<styleUrl>#proposed</styleUrl>
+			<name>Jones High School, OCPS</name>
+			<description><![CDATA[Mars]]></description>
+			<Point>
+				<coordinates>-81.401267,28.533522,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="weoj">
+			<styleUrl>#proposed</styleUrl>
+			<name>Winegard Elementary, OCPS</name>
+			<description><![CDATA[Jupiter]]></description>
+			<Point>
+				<coordinates>-81.384015,28.453788,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="seoj">
+			<styleUrl>#proposed</styleUrl>
+			<name>Sadler Elementary, OCPS</name>
+			<description><![CDATA[Jupiter]]></description>
+			<Point>
+				<coordinates>-81.425728,28.470728,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="mmss">
+			<styleUrl>#proposed</styleUrl>
+			<name>Maitland Middle School, OCPS</name>
+			<description><![CDATA[Jupiter]]></description>
+			<Point>
+				<coordinates>-81.343054,28.633735,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="meoj">
+			<styleUrl>#proposed</styleUrl>
+			<name>Millenia Elementary, OCPS</name>
+			<description><![CDATA[Jupiter]]></description>
+			<Point>
+				<coordinates>-81.444439,28.484949,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="oheoj">
+			<styleUrl>#proposed</styleUrl>
+			<name>Oak Hill Elementary, OCPS</name>
+			<description><![CDATA[Jupiter]]></description>
+			<Point>
+				<coordinates>-81.475553,28.540647,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="rpeoj">
+			<styleUrl>#proposed</styleUrl>
+			<name>Robinswood Park Elementary, OCPS</name>
+			<description><![CDATA[Jupiter]]></description>
+			<Point>
+				<coordinates>-81.470789,28.559797,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="lmoj">
+			<styleUrl>#proposed</styleUrl>
+			<name>Lockhart Middle, OCPS</name>
+			<description><![CDATA[Jupiter]]></description>
+			<Point>
+				<coordinates>-81.422681,28.620391,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="mmoj">
+			<styleUrl>#proposed</styleUrl>
+			<name>Meadowbrook Middle, OCPS</name>
+			<description><![CDATA[Jupiter]]></description>
+			<Point>
+				<coordinates>-81.462678,28.596127,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="reoj">
+			<styleUrl>#proposed</styleUrl>
+			<name>Rosemont Elementary, OCPS</name>
+			<description><![CDATA[Jupiter]]></description>
+			<Point>
+				<coordinates>-81.440920,28.605886,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="lreoj">
+			<styleUrl>#proposed</styleUrl>
+			<name>Little River Elementary, OCPS</name>
+			<description><![CDATA[Jupiter]]></description>
+			<Point>
+				<coordinates>-81.270963,28.545339,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="seos">
+			<styleUrl>#proposed</styleUrl>
+			<name>Cypress Creek High/Southwood Elementary, OCPS</name>
+			<description><![CDATA[Saturn]]></description>
+			<Point>
+				<coordinates>-81.377706,28.381584,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="swj">
+			<styleUrl>#proposed</styleUrl>
+			<name>Sea World/Discovery Cove</name>
+			<description><![CDATA[Saturn]]></description>
+			<Point>
+				<coordinates>-81.462249,28.406274,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="lweos">
+			<styleUrl>#proposed</styleUrl>
+			<name>Lake Whitney Elementary, OCPS</name>
+			<description><![CDATA[Saturn]]></description>
+			<Point>
+				<coordinates>-81.557221,28.526961,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="wohos">
+			<styleUrl>#proposed</styleUrl>
+			<name>West Orange High, OCPS</name>
+			<description><![CDATA[Saturn]]></description>
+			<Point>
+				<coordinates>-81.569194,28.540421,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="csess">
+			<styleUrl>#proposed</styleUrl>
+			<name>Clay Springs Elementary, SCPS</name>
+			<description><![CDATA[Saturn]]></description>
+			<Point>
+				<coordinates>-81.466240,28.689157,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="spess">
+			<styleUrl>#proposed</styleUrl>
+			<name>Sabal Point Elementary, SCPS</name>
+			<description><![CDATA[Saturn]]></description>
+			<Point>
+				<coordinates>-81.419506,28.703311,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="sclss">
+			<styleUrl>#proposed</styleUrl>
+			<name>Seminole Co Lib, Seminole Co</name>
+			<description><![CDATA[Saturn]]></description>
+			<Point>
+				<coordinates>-81.446070,28.693524,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="kess">
+			<styleUrl>#proposed</styleUrl>
+			<name>Keeth Elementary, SCPS</name>
+			<description><![CDATA[Saturn]]></description>
+			<Point>
+				<coordinates>-81.264066,28.685844,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ucfs">
+			<styleUrl>#proposed</styleUrl>
+			<name>UCF</name>
+			<description><![CDATA[Saturn]]></description>
+			<Point>
+				<coordinates>-81.198792,28.604643,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="rlmss">
+			<styleUrl>#proposed</styleUrl>
+			<name>Rock Lake Middle School, SCPS</name>
+			<description><![CDATA[Saturn]]></description>
+			<Point>
+				<coordinates>-81.371185,28.704603,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="wesss">
+			<styleUrl>#proposed</styleUrl>
+			<name>Woodlands Elementary School, SCPS</name>
+			<description><![CDATA[Saturn]]></description>
+			<Point>
+				<coordinates>-81.371406,28.714947,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="mwmos">
+			<styleUrl>#proposed</styleUrl>
+			<name>Meadow Woods Middle School, OCPS</name>
+			<description><![CDATA[Saturn]]></description>
+			<Point>
+				<coordinates>-81.345767,28.370656,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ssesu">
+			<styleUrl>#proposed</styleUrl>
+			<name>Seminole Springs Elementary, SCPS</name>
+			<description><![CDATA[Uranus]]></description>
+			<Point>
+				<coordinates>-81.525786,28.858653,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="wsk8ou">
+			<styleUrl>#proposed</styleUrl>
+			<name>Westside K-8, OscCPS</name>
+			<description><![CDATA[Uranus]]></description>
+			<Point>
+				<coordinates>-81.647410,28.318479,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="scmsou">
+			<styleUrl>#proposed</styleUrl>
+			<name>St. Cloud Middle, OscCPS</name>
+			<description><![CDATA[Uranus]]></description>
+			<Point>
+				<coordinates>-81.275596,28.239584,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="melu">
+			<styleUrl>#proposed</styleUrl>
+			<name>Minneola Elementary School, LCPS</name>
+			<description><![CDATA[Uranus]]></description>
+			<Point>
+				<coordinates>-81.742259,28.580128,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="mdmlu">
+			<styleUrl>#proposed</styleUrl>
+			<name>Mt Dora Middle, LCPS</name>
+			<description><![CDATA[Uranus]]></description>
+			<Point>
+				<coordinates>-81.632022,28.808053,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="phsou">
+			<styleUrl>#proposed</styleUrl>
+			<name>Poinciana High, Oceola County Schools</name>
+			<description><![CDATA[Uranus]]></description>
+			<Point>
+				<coordinates>-81.488900,28.235061,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="rceau">
+			<styleUrl>#proposed</styleUrl>
+			<name>Reedy Creek Elementary, Osceola Schools</name>
+			<description><![CDATA[Uranus]]></description>
+			<Point>
+				<coordinates>-81.489629,28.228633,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="opmln">
+			<styleUrl>#proposed</styleUrl>
+			<name>Oak Park Middle, LCPS</name>
+			<description><![CDATA[Neptune]]></description>
+			<Point>
+				<coordinates>-81.897583,28.801868,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="lhsln">
+			<styleUrl>#proposed</styleUrl>
+			<name>Leesberg High Stadium, LCPS</name>
+			<description><![CDATA[Neptune]]></description>
+			<Point>
+				<coordinates>-81.890373,28.807527,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ahofnn">
+			<styleUrl>#proposed</styleUrl>
+			<name>KSC Astronaut Training Experience, NASA</name>
+			<description><![CDATA[Neptune]]></description>
+			<Point>
+				<coordinates>-80.782213,28.526622,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="mbpnn">
+			<styleUrl>#proposed</styleUrl>
+			<name>Max Brewer Pkwy, NASA</name>
+			<description><![CDATA[Neptune]]></description>
+			<Point>
+				<coordinates>-80.786333,28.629733,0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='proposed'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>

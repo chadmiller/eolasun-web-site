@@ -1,0 +1,2210 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="3543.3069"
+   height="3543.3069"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   enable-background="new"
+   sodipodi:docname="solar tile.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="-1616.7448"
+     inkscape:cy="2463.9045"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="m"
+     inkscape:snap-grids="true"
+     showguides="true"
+     inkscape:snap-bbox="false"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-paths="false"
+     inkscape:snap-global="false"
+     inkscape:window-width="1137"
+     inkscape:window-height="1029"
+     inkscape:window-x="304"
+     inkscape:window-y="505"
+     inkscape:window-maximized="0"
+     inkscape:snap-object-midpoints="false"
+     inkscape:snap-center="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       snapvisiblegridlinesonly="true"
+       enabled="true"
+       visible="true"
+       empspacing="5"
+       id="grid4033"
+       type="xygrid" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="-2726.6037,2556.8981"
+       id="guide3452" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="-3849.4893,1844.1345"
+       id="guide3456" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="-2774.687,1759.2817"
+       id="guide3458" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="-3046.216,2025.1538"
+       id="guide3460" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4">
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mstart">
+      <path
+         transform="scale(0.6) translate(0,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round"
+         id="path4265" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Sstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Sstart">
+      <path
+         transform="scale(0.3) translate(-2.3,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round"
+         id="path4271" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Mend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path4250" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path4244" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart">
+      <path
+         transform="scale(1.1) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round"
+         id="path4259" />
+    </marker>
+    <marker
+       inkscape:stockid="DistanceEnd"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="DistanceEnd"
+       style="overflow:visible">
+      <g
+         id="g2301">
+        <path
+           id="path2316"
+           d="M 0,0 L -2,0"
+           style="fill:none;stroke:#ffffff;stroke-width:1.15;stroke-linecap:square" />
+        <path
+           id="path2312"
+           d="M 0,0 L -13,4 L -9,0 -13,-4 L 0,0 z "
+           style="fill:#000000;fill-rule:evenodd;stroke:none" />
+        <path
+           id="path2314"
+           d="M 0,-4 L 0,40"
+           style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square" />
+      </g>
+    </marker>
+    <marker
+       inkscape:stockid="DistanceStart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="DistanceStart"
+       style="overflow:visible">
+      <g
+         id="g2300">
+        <path
+           id="path2306"
+           d="M 0,0 L 2,0"
+           style="fill:none;stroke:#ffffff;stroke-width:1.15;stroke-linecap:square" />
+        <path
+           id="path2302"
+           d="M 0,0 L 13,4 L 9,0 13,-4 L 0,0 z "
+           style="fill:#000000;fill-rule:evenodd;stroke:none" />
+        <path
+           id="path2304"
+           d="M 0,-4 L 0,40"
+           style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square" />
+      </g>
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="EmptyTriangleOutL"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="EmptyTriangleOutL">
+      <path
+         transform="scale(0.8) translate(-6,0)"
+         style="fill-rule:evenodd;fill:#FFFFFF;stroke:#000000;stroke-width:1.0pt"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         id="path4412" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="EmptyTriangleInL"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="EmptyTriangleInL">
+      <path
+         transform="scale(-0.8) translate(-6,0)"
+         style="fill-rule:evenodd;fill:#FFFFFF;stroke:#000000;stroke-width:1.0pt"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         id="path4403" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="EmptyTriangleInM"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="EmptyTriangleInM">
+      <path
+         transform="scale(-0.4) translate(-4.5,0)"
+         style="fill-rule:evenodd;fill:#FFFFFF;stroke:#000000;stroke-width:1.0pt"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         id="path4406" />
+    </marker>
+    <filter
+       id="filter3872"
+       inkscape:collect="always">
+      <feBlend
+         id="feBlend3874"
+         in2="BackgroundImage"
+         mode="lighten"
+         inkscape:collect="always" />
+    </filter>
+    <clipPath
+       id="clipPath4015"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         y="-1360.0729"
+         x="-509.71521"
+         height="509.15015"
+         width="1446.7603"
+         id="rect4017"
+         style="fill:#5bff6a;fill-opacity:0;fill-rule:evenodd;stroke:#007100;stroke-width:7.08661413;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:2.5" />
+    </clipPath>
+    <clipPath
+       id="clipPath4015-2"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         y="-1360.0729"
+         x="-509.71521"
+         height="509.15015"
+         width="1446.7603"
+         id="rect4017-5"
+         style="fill:#5bff6a;fill-opacity:0;fill-rule:evenodd;stroke:#007100;stroke-width:7.08661413;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:2.5" />
+    </clipPath>
+    <clipPath
+       id="clipPath4075"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         y="288.67459"
+         x="778.52454"
+         height="308.29855"
+         width="813.87988"
+         id="rect4077"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#e60400;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:2.5" />
+    </clipPath>
+    <clipPath
+       id="clipPath4015-9"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         y="-1360.0729"
+         x="-509.71521"
+         height="509.15015"
+         width="1446.7603"
+         id="rect4017-6"
+         style="fill:#5bff6a;fill-opacity:0;fill-rule:evenodd;stroke:#007100;stroke-width:7.08661413;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:2.5" />
+    </clipPath>
+    <filter
+       id="filter3872-4"
+       inkscape:collect="always"
+       color-interpolation-filters="sRGB">
+      <feBlend
+         id="feBlend3874-1"
+         in2="BackgroundImage"
+         mode="lighten"
+         inkscape:collect="always" />
+    </filter>
+    <clipPath
+       id="clipPath4075-1"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         y="288.67459"
+         x="778.52454"
+         height="308.29855"
+         width="813.87988"
+         id="rect4077-8"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#e60400;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:2.5" />
+    </clipPath>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1LendI"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1LendI">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="stroke:#e6e600;stroke-width:1.0pt;fill:#e6e600;fill-rule:evenodd"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path7049" />
+    </marker>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath7577">
+      <rect
+         style="fill:#e50000;fill-opacity:1;fill-rule:nonzero;stroke:#e6e600;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:2.5"
+         id="rect7579"
+         width="708"
+         height="660"
+         x="337.38834"
+         y="-159.66893"
+         transform="matrix(0.89000045,-0.45595965,0.45595965,0.89000045,0,0)" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath7581">
+      <rect
+         style="fill:#e50000;fill-opacity:1;fill-rule:nonzero;stroke:#e6e600;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:2.5"
+         id="rect7583"
+         width="708"
+         height="660"
+         x="337.38834"
+         y="-159.66893"
+         transform="matrix(0.89000045,-0.45595965,0.45595965,0.89000045,0,0)" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath7585">
+      <rect
+         style="fill:#e50000;fill-opacity:1;fill-rule:nonzero;stroke:#e6e600;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:2.5"
+         id="rect7587"
+         width="708"
+         height="660"
+         x="337.38834"
+         y="-159.66893"
+         transform="matrix(0.89000045,-0.45595965,0.45595965,0.89000045,0,0)" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath7589">
+      <rect
+         style="fill:#e50000;fill-opacity:1;fill-rule:nonzero;stroke:#e6e600;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:2.5"
+         id="rect7591"
+         width="708"
+         height="660"
+         x="337.38834"
+         y="-159.66893"
+         transform="matrix(0.89000045,-0.45595965,0.45595965,0.89000045,0,0)" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath7593">
+      <rect
+         style="fill:#e50000;fill-opacity:1;fill-rule:nonzero;stroke:#e6e600;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:2.5"
+         id="rect7595"
+         width="708"
+         height="660"
+         x="337.38834"
+         y="-159.66893"
+         transform="matrix(0.89000045,-0.45595965,0.45595965,0.89000045,0,0)" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath7597">
+      <rect
+         style="fill:#e50000;fill-opacity:1;fill-rule:nonzero;stroke:#e6e600;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:2.5"
+         id="rect7599"
+         width="708"
+         height="660"
+         x="337.38834"
+         y="-159.66893"
+         transform="matrix(0.89000045,-0.45595965,0.45595965,0.89000045,0,0)" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath7601">
+      <rect
+         style="fill:#e50000;fill-opacity:1;fill-rule:nonzero;stroke:#e6e600;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:2.5"
+         id="rect7603"
+         width="708"
+         height="660"
+         x="337.38834"
+         y="-159.66893"
+         transform="matrix(0.89000045,-0.45595965,0.45595965,0.89000045,0,0)" />
+    </clipPath>
+    <clipPath
+       id="clipPath4075-1-9"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         y="288.67459"
+         x="778.52454"
+         height="308.29855"
+         width="813.87988"
+         id="rect4077-8-8"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#e60400;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:2.5" />
+    </clipPath>
+    <clipPath
+       id="clipPath4015-26"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         y="-1360.0729"
+         x="-509.71521"
+         height="509.15015"
+         width="1446.7603"
+         id="rect4017-51"
+         style="fill:#5bff6a;fill-opacity:0;fill-rule:evenodd;stroke:#007100;stroke-width:7.08661413;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:2.5" />
+    </clipPath>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3872-48"
+       inkscape:collect="always">
+      <feBlend
+         id="feBlend3874-8"
+         in2="BackgroundImage"
+         mode="lighten"
+         inkscape:collect="always" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter4487">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.34526855"
+         id="feGaussianBlur4489" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter4499">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.19164844"
+         id="feGaussianBlur4501" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4487-9">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.34526855"
+         id="feGaussianBlur4489-4" />
+    </filter>
+    <clipPath
+       id="clipPath4015-26-3"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         y="-1360.0729"
+         x="-509.71521"
+         height="509.15015"
+         width="1446.7603"
+         id="rect4017-51-7"
+         style="fill:#5bff6a;fill-opacity:0;fill-rule:evenodd;stroke:#007100;stroke-width:7.08661413;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:2.5" />
+    </clipPath>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3872-48-6"
+       inkscape:collect="always">
+      <feBlend
+         id="feBlend3874-8-7"
+         in2="BackgroundImage"
+         mode="lighten"
+         inkscape:collect="always" />
+    </filter>
+    <clipPath
+       id="clipPath4075-1-9-3"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         y="288.67459"
+         x="778.52454"
+         height="308.29855"
+         width="813.87988"
+         id="rect4077-8-8-7"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#e60400;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:2.5" />
+    </clipPath>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     style="display:inline"
+     inkscape:label="this planet"
+     id="layer2"
+     inkscape:groupmode="layer" />
+  <g
+     style="display:inline;"
+     transform="translate(0,2490.957)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="general introduction">
+    <path
+       inkscape:export-ydpi="65.330002"
+       inkscape:export-xdpi="65.330002"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-650.png"
+       sodipodi:nodetypes="csc"
+       inkscape:connector-curvature="0"
+       id="path3814"
+       d="m 1000.3062,-1571.1884 c 0,-91.9192 74.8224,-166.4345 167.1206,-166.4345 92.2982,0 167.1206,74.5153 167.1206,166.4345"
+       style="color:#000000;fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke:#008016;stroke-width:14.27299976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       inkscape:export-ydpi="65.330002"
+       inkscape:export-xdpi="65.330002"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-650.png"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 700.10986,-1604.9181 c 0,0 0,0 0,0 0,18.1235 14.8588,32.8155 33.1879,32.8155 18.3292,0 33.1879,-14.692 33.1879,-32.8155"
+       id="path3770"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="65.330002"
+       inkscape:export-xdpi="65.330002"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-650.png"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 899.07646,-1604.9181 c 0,0 0,0 0,0 0,18.1235 14.8587,32.8155 33.1879,32.8155 18.3291,0 33.1879,-14.692 33.1879,-32.8155"
+       id="path3772"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="65.330002"
+       inkscape:export-xdpi="65.330002"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-650.png"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 1164.3653,-1604.9181 c 0,0 0,0 0,0 0,18.1235 14.8587,32.8155 33.1878,32.8155 18.3292,0 33.1879,-14.692 33.1879,-32.8155"
+       id="path3774"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="65.330002"
+       inkscape:export-xdpi="65.330002"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-650.png"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 965.39866,-1604.9181 c 0,0 0,0 0,0 0,18.1235 14.8587,32.8155 33.1879,32.8155 18.32914,0 33.18794,-14.692 33.18794,-32.8155"
+       id="path3778"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="65.330002"
+       inkscape:export-xdpi="65.330002"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-650.png"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 1297.0097,-1604.9181 c 0,0 0,0 0,0 0,18.1235 14.8587,32.8155 33.1878,32.8155 18.3292,0 33.1879,-14.692 33.1879,-32.8155"
+       id="path3780"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="65.330002"
+       inkscape:export-xdpi="65.330002"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-650.png"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 1363.3318,-1604.9181 c 0,0 0,0 0,0 0,18.1235 14.8588,32.8155 33.1879,32.8155 18.3292,0 33.1879,-14.692 33.1879,-32.8155"
+       id="path3784"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="65.330002"
+       inkscape:export-xdpi="65.330002"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-650.png"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 832.75426,-1604.9181 c 0,0 0,0 0,0 0,18.1235 14.8587,32.8155 33.1879,32.8155 18.3292,0 33.1879,-14.692 33.1879,-32.8155"
+       id="path3788"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="65.330002"
+       inkscape:export-xdpi="65.330002"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-650.png"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 1429.654,-1604.9181 c 0,0 0,0 0,0 0,18.1235 14.8587,32.8155 33.1879,32.8155 18.3292,0 33.1879,-14.692 33.1879,-32.8155"
+       id="path3790"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="65.330002"
+       inkscape:export-xdpi="65.330002"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-650.png"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 766.43206,-1604.9181 c 0,0 0,0 0,0 0,18.1235 14.8587,32.8155 33.1879,32.8155 18.3292,0 33.1879,-14.692 33.1879,-32.8155"
+       id="path3792"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="65.330002"
+       inkscape:export-xdpi="65.330002"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-650.png"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 633.78766,-1604.9181 c 0,0 0,0 0,0 0,18.1235 14.8588,32.8155 33.1879,32.8155 18.3292,0 33.1879,-14.692 33.1879,-32.8155"
+       id="path3796"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="65.330002"
+       inkscape:export-xdpi="65.330002"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-650.png"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 1031.7209,-1604.9181 c 0,0 0,0 0,0 0,18.1235 14.8587,32.8155 33.1879,32.8155 18.3291,0 33.1879,-14.692 33.1879,-32.8155"
+       id="path3800"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="65.330002"
+       inkscape:export-xdpi="65.330002"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-650.png"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 1098.0431,-1604.9181 c 0,0 0,0 0,0 0,18.1235 14.8587,32.8155 33.1879,32.8155 18.3291,0 33.1879,-14.692 33.1879,-32.8155"
+       id="path3802"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="65.330002"
+       inkscape:export-xdpi="65.330002"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-650.png"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 1230.6875,-1604.9181 c 0,0 0,0 0,0 0,18.1235 14.8587,32.8155 33.1878,32.8155 18.3292,0 33.1879,-14.692 33.1879,-32.8155"
+       id="path3804"
+       inkscape:connector-curvature="0" />
+    <g
+       inkscape:export-ydpi="65.330002"
+       inkscape:export-xdpi="65.330002"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-650.png"
+       style="stroke-width:20.47092247;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="matrix(0.47248493,0,0,0.25363826,549.30856,-1438.6799)"
+       id="g4039">
+      <path
+         style="fill:none;stroke:#314fc5;stroke-width:20.47092247;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 1348.2244,-1477.6501 0,-19.1008 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 c -0.6105,-157.0536 139.3895,-157.0536 136.2727,2.0782"
+         id="path4031"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccccccccccccccccccccccccc" />
+      <path
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path4035"
+         d="m 1308.1213,-1477.6501 0,-214.4196 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 c -0.6105,-157.0536 139.3895,-157.0536 136.2727,2.0782"
+         style="fill:none;stroke:#314fc5;stroke-width:20.47092247;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         style="fill:none;stroke:#314fc5;stroke-width:20.47092247;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 1268.2322,-1477.6501 0,-71.7519 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 c 0.6105,-157.0536 -139.3895,-157.0536 -136.2727,2.0782"
+         id="path4037"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccc" />
+    </g>
+    <path
+       inkscape:export-ydpi="65.330002"
+       inkscape:export-xdpi="65.330002"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-650.png"
+       inkscape:connector-curvature="0"
+       id="path4066"
+       d="m 995.31026,-1750.9629 344.64284,0"
+       style="fill:none;stroke:#000000;stroke-width:2.17199993;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#DistanceStart);marker-mid:none;marker-end:url(#DistanceEnd)" />
+    <flowRoot
+       inkscape:export-ydpi="65.330002"
+       inkscape:export-xdpi="65.330002"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-650.png"
+       transform="translate(112.09866,-2337.3835)"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Muli;-inkscape-font-specification:Muli Semi-Light"
+       id="flowRoot5628"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5630"><rect
+           style="font-size:64px;font-style:normal;font-variant:normal;font-stretch:normal;font-family:Muli;-inkscape-font-specification:Muli Semi-Light"
+           y="509.73544"
+           x="892.85712"
+           height="95.714287"
+           width="316.42856"
+           id="rect5632" /></flowRegion><flowPara
+         style="font-size:64px;font-style:normal;font-variant:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Muli;-inkscape-font-specification:Muli Semi-Light"
+         id="flowPara5634">18 meter</flowPara></flowRoot>    <flowRoot
+       inkscape:export-ydpi="65.330002"
+       inkscape:export-xdpi="65.330002"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-650.png"
+       transform="translate(462.42676,-2065.3411)"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Muli;-inkscape-font-specification:Muli Semi-Light"
+       id="flowRoot5644"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5646"><rect
+           style="font-style:normal;font-variant:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Muli;-inkscape-font-specification:Muli Semi-Light"
+           y="384.73544"
+           x="565.71429"
+           height="122.14286"
+           width="281.42856"
+           id="rect5648" /></flowRegion><flowPara
+         style="font-size:64px;font-style:normal;font-variant:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Muli;-inkscape-font-specification:Muli Semi-Light"
+         id="flowPara5650">fountain</flowPara></flowRoot>    <flowRoot
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       id="flowRoot5652"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5654"><rect
+           y="274.02118"
+           x="550.71429"
+           height="147.14285"
+           width="280"
+           id="rect5656" /></flowRegion><flowPara
+         id="flowPara5658" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3108"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Muli;-inkscape-font-specification:Muli Semi-Light"
+       transform="translate(-136.26564,-2107.3835)"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-650.png"
+       inkscape:export-xdpi="65.330002"
+       inkscape:export-ydpi="65.330002"><flowRegion
+         id="flowRegion3110"><rect
+           id="rect3112"
+           width="382.13391"
+           height="187.93069"
+           x="727.7135"
+           y="279.73544"
+           style="font-style:normal;font-variant:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:Muli;-inkscape-font-specification:Muli Semi-Light" /></flowRegion><flowPara
+         id="flowPara3114">Imagine the </flowPara></flowRoot>    <flowRoot
+       inkscape:export-ydpi="65.330002"
+       inkscape:export-xdpi="65.330002"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-650.png"
+       transform="translate(34.825964,-1932.4661)"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Muli;-inkscape-font-specification:Muli Semi-Light"
+       id="flowRoot5668"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5670"><rect
+           style="font-style:normal;font-variant:normal;font-stretch:normal;font-family:Muli;-inkscape-font-specification:Muli Semi-Light"
+           y="251.87831"
+           x="545.71429"
+           height="206.42857"
+           width="407.14285"
+           id="rect5672" /></flowRegion><flowPara
+         style="text-align:end;text-anchor:end"
+         id="flowPara5674">Lake Eola</flowPara></flowRoot>    <path
+       inkscape:export-ydpi="86.57"
+       inkscape:export-xdpi="86.57"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment.png"
+       transform="translate(-14.274536,-1833.0735)"
+       style="fill:none;stroke:#e6e600;stroke-width:4.00000048;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:2.5"
+       mask="none"
+       d="m 1182.0312,-33.3632 -0.125,98.3124 c 0.042,0 0.083,0 0.125,0 0.042,0 0.083,0 0.125,0 l -0.125,-98.3124 z m -77.125,10.1562 25.3126,94.9688 c 0.083,-0.0223 0.1667,-0.0404 0.25,-0.0626 l -25.5626,-94.9062 z m 154.25,0 -25.5624,94.9062 c 0.083,0.0222 0.1667,0.0403 0.25,0.0626 l 25.3124,-94.9688 z m -226.125,29.75 49.0626,85.2188 c 0.073,-0.0422 0.1459,-0.083 0.2187,-0.125 L 1033.0312,6.543 z m 298,0 -49.25,85.0625 c 0.073,0.0423 0.1457,0.0826 0.2188,0.125 L 1331.0312,6.543 z m -359.7187,47.375 69.4375,69.625 c 0.062,-0.0625 0.125,-0.1251 0.1875,-0.1875 L 971.3125,53.918 z m 421.4375,0 -69.625,69.4375 c 0.063,0.0625 0.125,0.1249 0.1875,0.1875 L 1392.75,53.918 z m -468.78125,61.7188 85.06245,49.25 c 0.042,-0.073 0.083,-0.1459 0.125,-0.2188 l -85.18745,-49.0312 z m 516.15625,0 -85.1875,49.0312 c 0.042,0.0731 0.083,0.1456 0.125,0.2188 l 85.0625,-49.25 z m -545.9375,71.875 94.90625,25.5624 c 0.0222,-0.0832 0.0402,-0.1667 0.0625,-0.25 L 894.1875,187.5118 z m 575.6875,0 -94.9688,25.3124 c 0.022,0.0831 0.04,0.167 0.063,0.25 l 94.9062,-25.5624 z m -487.5,77 -98.34375,0.125 98.34375,0.125 c -3e-5,-0.0418 0,-0.0833 0,-0.125 0,-0.0418 -3e-5,-0.0833 0,-0.125 z m 399.3438,0 c 0,0.0417 0,0.0832 0,0.125 0,0.0417 0,0.0832 0,0.125 l 98.3124,-0.125 -98.3124,-0.125 z m -392.62505,51.6874 -94.90625,25.5626 94.96875,-25.3126 c -0.0223,-0.0832 -0.0403,-0.1667 -0.0625,-0.25 z m 385.87505,0 c -0.022,0.0831 -0.04,0.167 -0.063,0.25 l 94.9688,25.3126 -94.9062,-25.5626 z m -19.9376,48.1563 c -0.042,0.0728 -0.083,0.146 -0.125,0.2187 l 85.2188,49.0626 -85.0938,-49.2813 z m -346,0.0313 -85.06245,49.25 85.18745,-49.0313 c -0.042,-0.0725 -0.083,-0.1462 -0.125,-0.2187 z m 31.7188,41.3437 -69.4375,69.625 69.625,-69.4375 c -0.062,-0.0624 -0.1251,-0.125 -0.1875,-0.1875 z m 282.5625,0 c -0.062,0.0626 -0.1249,0.125 -0.1875,0.1875 l 69.625,69.4375 -69.4375,-69.625 z m -241.25,31.7813 -49.0313,85.1874 49.25,-85.0624 c -0.072,-0.042 -0.1462,-0.083 -0.2187,-0.125 z m 199.9375,0 c -0.073,0.0422 -0.1458,0.0828 -0.2188,0.125 l 49.25,85.0624 L 1282,437.5118 z m -151.7812,20 -25.3126,94.9687 25.5626,-94.9063 c -0.083,-0.0221 -0.1668,-0.0402 -0.25,-0.0624 z m 103.625,0 c -0.083,0.0222 -0.1668,0.0403 -0.25,0.0624 l 25.5624,94.9063 -25.3124,-94.9687 z m -51.9376,6.7812 0.125,98.3438 0.125,-98.3438 c -0.042,0 -0.083,0 -0.125,0 -0.042,0 -0.083,0 -0.125,0 z"
+       id="path4079"
+       inkscape:connector-curvature="0"
+       clip-path="url(#clipPath4075)" />
+    <flowRoot
+       inkscape:export-ydpi="65.330002"
+       inkscape:export-xdpi="65.330002"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-650.png"
+       transform="translate(464.83306,-1790.5355)"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Muli;-inkscape-font-specification:Muli Semi-Light"
+       id="flowRoot5684"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5686"><rect
+           style="font-style:normal;font-variant:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Muli;-inkscape-font-specification:Muli Semi-Light"
+           y="244.02116"
+           x="540"
+           height="205"
+           width="329.28571"
+           id="rect5688" /></flowRegion><flowPara
+         id="flowPara5690">the SUN</flowPara></flowRoot>    <flowRoot
+       inkscape:export-ydpi="65.330002"
+       inkscape:export-xdpi="65.330002"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-650.png"
+       transform="translate(1152.6586,-1753.0286)"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Muli;-inkscape-font-specification:Muli Semi-Light"
+       id="flowRoot5700"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5702"><rect
+           style="font-style:normal;font-variant:normal;font-stretch:normal;font-family:Muli;-inkscape-font-specification:Muli Semi-Light"
+           y="72.422737"
+           x="190.91884"
+           height="199.00005"
+           width="479.82245"
+           id="rect5704" /></flowRegion><flowPara
+         id="flowPara5706">dome</flowPara></flowRoot>    <flowRoot
+       inkscape:export-ydpi="65.330002"
+       inkscape:export-xdpi="65.330002"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-650.png"
+       transform="translate(734.91056,-1680.5355)"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Muli;-inkscape-font-specification:Muli Semi-Light"
+       id="flowRoot5708"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5710"><rect
+           style="font-style:normal;font-variant:normal;font-stretch:normal;font-family:Muli;-inkscape-font-specification:Muli Semi-Light"
+           y="134.04204"
+           x="199.00005"
+           height="238.396"
+           width="496.99506"
+           id="rect5712" /></flowRegion><flowPara
+         id="flowPara5714">is</flowPara></flowRoot>    <path
+       inkscape:export-ydpi="65.330002"
+       inkscape:export-xdpi="65.330002"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-650.png"
+       clip-path="url(#clipPath4015)"
+       sodipodi:end="3.1415927"
+       sodipodi:start="0"
+       transform="matrix(0.2964892,0,0,0.29956684,1111.7199,-1134.0061)"
+       d="m 751.55347,-1444.8264 c 0,306.8405 -252.36146,555.58391 -563.6651,555.58391 -311.30364,0 -563.6651,-248.74341 -563.6651,-555.58391 0,0 0,0 0,0 l 563.6651,0 z"
+       sodipodi:ry="555.58392"
+       sodipodi:rx="563.6651"
+       sodipodi:cy="-1444.8264"
+       sodipodi:cx="187.88837"
+       id="path3812"
+       style="color:#000000;fill:#5bac6a;fill-opacity:0;fill-rule:evenodd;stroke:#e5e200;stroke-width:47.55733109;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter3872);enable-background:accumulate"
+       sodipodi:type="arc" />
+    <path
+       inkscape:export-ydpi="448.32001"
+       inkscape:export-xdpi="448.32001"
+       inkscape:export-filename="/home/cmiller/Desktop/osm/osm-icon-4000.png"
+       sodipodi:nodetypes="csc"
+       inkscape:connector-curvature="0"
+       id="path3814-7"
+       d="m -1239.2939,-129.03059 c 0,-91.91919 74.8224,-166.43449 167.1206,-166.43449 92.2982,0 167.1206,74.5153 167.1206,166.43449"
+       style="color:#000000;fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke:#008016;stroke-width:14.27299976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       inkscape:export-ydpi="448.32001"
+       inkscape:export-xdpi="448.32001"
+       inkscape:export-filename="/home/cmiller/Desktop/osm/osm-icon-4000.png"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m -1340.5236,-162.76029 c 0,0 0,0 0,0 0,18.1235 14.8587,32.8155 33.1879,32.8155 18.3291,0 33.1879,-14.692 33.1879,-32.8155"
+       id="path3772-9"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="448.32001"
+       inkscape:export-xdpi="448.32001"
+       inkscape:export-filename="/home/cmiller/Desktop/osm/osm-icon-4000.png"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m -1075.2348,-162.76029 c 0,0 0,0 0,0 0,18.1235 14.8587,32.8155 33.1878,32.8155 18.3292,0 33.1879,-14.692 33.1879,-32.8155"
+       id="path3774-26"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="448.32001"
+       inkscape:export-xdpi="448.32001"
+       inkscape:export-filename="/home/cmiller/Desktop/osm/osm-icon-4000.png"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m -1274.2014,-162.76029 c 0,0 0,0 0,0 0,18.1235 14.8587,32.8155 33.1879,32.8155 18.3291,0 33.1879,-14.692 33.1879,-32.8155"
+       id="path3778-1"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="448.32001"
+       inkscape:export-xdpi="448.32001"
+       inkscape:export-filename="/home/cmiller/Desktop/osm/osm-icon-4000.png"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m -942.5904,-162.76029 c 0,0 0,0 0,0 0,18.1235 14.8587,32.8155 33.1878,32.8155 18.3292,0 33.1879,-14.692 33.1879,-32.8155"
+       id="path3780-5"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="448.32001"
+       inkscape:export-xdpi="448.32001"
+       inkscape:export-filename="/home/cmiller/Desktop/osm/osm-icon-4000.png"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m -876.2683,-162.76029 c 0,0 0,0 0,0 0,18.1235 14.8588,32.8155 33.1879,32.8155 18.3292,0 33.1879,-14.692 33.1879,-32.8155"
+       id="path3784-6"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="448.32001"
+       inkscape:export-xdpi="448.32001"
+       inkscape:export-filename="/home/cmiller/Desktop/osm/osm-icon-4000.png"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m -1406.8458,-162.76029 c 0,0 0,0 0,0 0,18.1235 14.8587,32.8155 33.1879,32.8155 18.3292,0 33.1879,-14.692 33.1879,-32.8155"
+       id="path3788-8"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="448.32001"
+       inkscape:export-xdpi="448.32001"
+       inkscape:export-filename="/home/cmiller/Desktop/osm/osm-icon-4000.png"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m -809.9461,-162.76029 c 0,0 0,0 0,0 0,18.1235 14.8587,32.8155 33.18791,32.8155 18.3292,0 33.1879,-14.692 33.1879,-32.8155"
+       id="path3790-7"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="448.32001"
+       inkscape:export-xdpi="448.32001"
+       inkscape:export-filename="/home/cmiller/Desktop/osm/osm-icon-4000.png"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m -1473.168,-162.76029 c 0,0 0,0 0,0 0,18.1235 14.8587,32.8155 33.1879,32.8155 18.3292,0 33.1879,-14.692 33.1879,-32.8155"
+       id="path3792-9"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="448.32001"
+       inkscape:export-xdpi="448.32001"
+       inkscape:export-filename="/home/cmiller/Desktop/osm/osm-icon-4000.png"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m -743.62389,-162.76029 c 0,0 0,0 0,0 0,18.1235 14.8587,32.8155 33.1879,32.8155 18.3291,0 33.1879,-14.692 33.1879,-32.8155"
+       id="path3798-6"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="448.32001"
+       inkscape:export-xdpi="448.32001"
+       inkscape:export-filename="/home/cmiller/Desktop/osm/osm-icon-4000.png"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m -1207.8792,-162.76029 c 0,0 0,0 0,0 0,18.1235 14.8587,32.8155 33.1879,32.8155 18.3291,0 33.1879,-14.692 33.1879,-32.8155"
+       id="path3800-7"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="448.32001"
+       inkscape:export-xdpi="448.32001"
+       inkscape:export-filename="/home/cmiller/Desktop/osm/osm-icon-4000.png"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m -1141.557,-162.76029 c 0,0 0,0 0,0 0,18.1235 14.8587,32.8155 33.1879,32.8155 18.3291,0 33.1879,-14.692 33.1879,-32.8155"
+       id="path3802-8"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="448.32001"
+       inkscape:export-xdpi="448.32001"
+       inkscape:export-filename="/home/cmiller/Desktop/osm/osm-icon-4000.png"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m -1008.9126,-162.76029 c 0,0 0,0 0,0 0,18.1235 14.8587,32.8155 33.1878,32.8155 18.3292,0 33.1879,-14.692 33.1879,-32.8155"
+       id="path3804-8"
+       inkscape:connector-curvature="0" />
+    <g
+       inkscape:export-ydpi="448.32001"
+       inkscape:export-xdpi="448.32001"
+       inkscape:export-filename="/home/cmiller/Desktop/osm/osm-icon-4000.png"
+       style="stroke-width:20.47092247;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+       transform="matrix(0.47248493,0,0,0.25363826,-1690.2915,43.477912)"
+       id="g4039-6">
+      <path
+         style="fill:none;stroke:#314fc5;stroke-width:20.47092247;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 1348.2244,-1477.6501 0,-19.1008 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 c -0.6105,-157.0536 139.3895,-157.0536 136.2727,2.0782"
+         id="path4031-8"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccccccccccccccccccccccccc" />
+      <path
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path4035-3"
+         d="m 1308.1213,-1477.6501 0,-214.4196 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 c -0.6105,-157.0536 139.3895,-157.0536 136.2727,2.0782"
+         style="fill:none;stroke:#314fc5;stroke-width:20.47092247;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         style="fill:none;stroke:#314fc5;stroke-width:20.47092247;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 1268.2322,-1477.6501 0,-71.7519 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 c 0.6105,-157.0536 -139.3895,-157.0536 -136.2727,2.0782"
+         id="path4037-3"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccc" />
+    </g>
+    <path
+       inkscape:export-ydpi="448.32001"
+       inkscape:export-xdpi="448.32001"
+       inkscape:export-filename="/home/cmiller/Desktop/osm/osm-icon-4000.png"
+       transform="translate(-2253.8746,-390.91568)"
+       style="fill:none;stroke:#e6e600;stroke-width:4.00000048;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:2.5;display:inline"
+       mask="none"
+       d="m 1182.0312,-33.3632 -0.125,98.3124 c 0.042,0 0.083,0 0.125,0 0.042,0 0.083,0 0.125,0 l -0.125,-98.3124 z m -77.125,10.1562 25.3126,94.9688 c 0.083,-0.0223 0.1667,-0.0404 0.25,-0.0626 l -25.5626,-94.9062 z m 154.25,0 -25.5624,94.9062 c 0.083,0.0222 0.1667,0.0403 0.25,0.0626 l 25.3124,-94.9688 z m -226.125,29.75 49.0626,85.2188 c 0.073,-0.0422 0.1459,-0.083 0.2187,-0.125 L 1033.0312,6.543 z m 298,0 -49.25,85.0625 c 0.073,0.0423 0.1457,0.0826 0.2188,0.125 L 1331.0312,6.543 z m -359.7187,47.375 69.4375,69.625 c 0.062,-0.0625 0.125,-0.1251 0.1875,-0.1875 L 971.3125,53.918 z m 421.4375,0 -69.625,69.4375 c 0.063,0.0625 0.125,0.1249 0.1875,0.1875 L 1392.75,53.918 z m -468.78125,61.7188 85.06245,49.25 c 0.042,-0.073 0.083,-0.1459 0.125,-0.2188 l -85.18745,-49.0312 z m 516.15625,0 -85.1875,49.0312 c 0.042,0.0731 0.083,0.1456 0.125,0.2188 l 85.0625,-49.25 z m -545.9375,71.875 94.90625,25.5624 c 0.0222,-0.0832 0.0402,-0.1667 0.0625,-0.25 L 894.1875,187.5118 z m 575.6875,0 -94.9688,25.3124 c 0.022,0.0831 0.04,0.167 0.063,0.25 l 94.9062,-25.5624 z m -487.5,77 -98.34375,0.125 98.34375,0.125 c -3e-5,-0.0418 0,-0.0833 0,-0.125 0,-0.0418 -3e-5,-0.0833 0,-0.125 z m 399.3438,0 c 0,0.0417 0,0.0832 0,0.125 0,0.0417 0,0.0832 0,0.125 l 98.3124,-0.125 -98.3124,-0.125 z m -392.62505,51.6874 -94.90625,25.5626 94.96875,-25.3126 c -0.0223,-0.0832 -0.0403,-0.1667 -0.0625,-0.25 z m 385.87505,0 c -0.022,0.0831 -0.04,0.167 -0.063,0.25 l 94.9688,25.3126 -94.9062,-25.5626 z m -19.9376,48.1563 c -0.042,0.0728 -0.083,0.146 -0.125,0.2187 l 85.2188,49.0626 -85.0938,-49.2813 z m -346,0.0313 -85.06245,49.25 85.18745,-49.0313 c -0.042,-0.0725 -0.083,-0.1462 -0.125,-0.2187 z m 31.7188,41.3437 -69.4375,69.625 69.625,-69.4375 c -0.062,-0.0624 -0.1251,-0.125 -0.1875,-0.1875 z m 282.5625,0 c -0.062,0.0626 -0.1249,0.125 -0.1875,0.1875 l 69.625,69.4375 -69.4375,-69.625 z m -241.25,31.7813 -49.0313,85.1874 49.25,-85.0624 c -0.072,-0.042 -0.1462,-0.083 -0.2187,-0.125 z m 199.9375,0 c -0.073,0.0422 -0.1458,0.0828 -0.2188,0.125 l 49.25,85.0624 L 1282,437.5118 z m -151.7812,20 -25.3126,94.9687 25.5626,-94.9063 c -0.083,-0.0221 -0.1668,-0.0402 -0.25,-0.0624 z m 103.625,0 c -0.083,0.0222 -0.1668,0.0403 -0.25,0.0624 l 25.5624,94.9063 -25.3124,-94.9687 z m -51.9376,6.7812 0.125,98.3438 0.125,-98.3438 c -0.042,0 -0.083,0 -0.125,0 -0.042,0 -0.083,0 -0.125,0 z"
+       id="path4079-3"
+       inkscape:connector-curvature="0"
+       clip-path="url(#clipPath4075-1)" />
+    <path
+       inkscape:export-ydpi="448.32001"
+       inkscape:export-xdpi="448.32001"
+       inkscape:export-filename="/home/cmiller/Desktop/osm/osm-icon-4000.png"
+       clip-path="url(#clipPath4015-9)"
+       sodipodi:end="3.1415927"
+       sodipodi:start="0"
+       transform="matrix(0.2964892,0,0,0.29956684,-1127.8802,308.15171)"
+       d="m 751.55347,-1444.8264 c 0,306.8405 -252.36146,555.58391 -563.6651,555.58391 -311.30364,0 -563.6651,-248.74341 -563.6651,-555.58391 0,0 0,0 0,0 l 563.6651,0 z"
+       sodipodi:ry="555.58392"
+       sodipodi:rx="563.6651"
+       sodipodi:cy="-1444.8264"
+       sodipodi:cx="187.88837"
+       id="path3812-9"
+       style="color:#000000;fill:#5bac6a;fill-opacity:0;fill-rule:evenodd;stroke:#e5e200;stroke-width:47.55733109;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter3872-4);enable-background:accumulate"
+       sodipodi:type="arc" />
+    <flowRoot
+       transform="translate(221.36986,-2226.6326)"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Muli;-inkscape-font-specification:Muli Semi-Light"
+       id="flowRoot4687"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4689"><rect
+           style="font-style:normal;font-variant:normal;font-stretch:normal;font-family:Muli;-inkscape-font-specification:Muli Semi-Light"
+           y="83.570358"
+           x="118.73802"
+           height="188.30507"
+           width="781.08179"
+           id="rect4691" /></flowRegion><flowPara
+         style="font-size:72px;font-style:normal;font-variant:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Muli;-inkscape-font-specification:Muli Semi-Light"
+         id="flowPara4693">This is part of a model of the solar system.</flowPara></flowRoot>    <flowRoot
+       style="fill:black;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt;font-family:Muli;font-style:normal;font-weight:380;font-size:64px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Muli Semi-Light;font-stretch:normal;font-variant:normal"
+       id="flowRoot3139"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3141"><rect
+           y="2159.3069"
+           x="372"
+           height="924"
+           width="1308"
+           id="rect3143" /></flowRegion><flowPara
+         id="flowPara3145" /></flowRoot>    <flowRoot
+       transform="matrix(1.79267,0,0,1.798022,-1608.8537,-3642.758)"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Muli;-inkscape-font-specification:Muli Semi-Light"
+       id="flowRoot3147"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3149"><rect
+           y="1243.3069"
+           x="260"
+           height="1304"
+           width="1904"
+           id="rect3151" /></flowRegion><flowPara
+         style="text-align:center;line-height:146.00000381%;text-anchor:middle"
+         id="flowPara3153">That</flowPara><flowPara
+         id="flowPara3163"
+         style="text-align:center;line-height:146.00000381%;text-anchor:middle">would</flowPara><flowPara
+         id="flowPara3165"
+         style="text-align:center;line-height:146.00000381%;text-anchor:middle">put</flowPara><flowPara
+         id="flowPara3193"
+         style="font-size:120px;text-align:center;line-height:146.00000381%;text-anchor:middle">MARS</flowPara><flowPara
+         id="flowPara5176"
+         style="font-size:35.64776611px;text-align:center;line-height:146.00000381%;text-anchor:middle">here</flowPara><flowPara
+         id="flowPara5154"
+         style="font-size:35.64776611px;text-align:center;line-height:146.00000381%;text-anchor:middle">at this</flowPara><flowPara
+         id="flowPara5168"
+         style="font-size:35.64776611px;text-align:center;line-height:146.00000381%;text-anchor:middle">size</flowPara></flowRoot>    <flowRoot
+       style="fill:black;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt;font-family:Muli;font-style:normal;font-weight:380;font-size:64px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Muli Semi-Light;font-stretch:normal;font-variant:normal"
+       id="flowRoot3155"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3157"><rect
+           y="1491.3069"
+           x="864"
+           height="132"
+           width="680"
+           id="rect3159" /></flowRegion><flowPara
+         id="flowPara3161" /></flowRoot>    <flowRoot
+       style="fill:black;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt;font-family:Muli;font-style:normal;font-weight:380;font-size:64px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Muli Semi-Light;font-stretch:normal;font-variant:normal"
+       id="flowRoot3167"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3169"><rect
+           y="2367.3069"
+           x="312"
+           height="464"
+           width="1908"
+           id="rect3171" /></flowRegion><flowPara
+         id="flowPara3173" /></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:10.62992096;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:url(#Arrow1Lend)"
+       d="M 1018.4168,-734.73338 2773.0376,-1614.5458"
+       id="path5097"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       transform="translate(0,-2490.957)"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Muli;-inkscape-font-specification:Muli Semi-Light"
+       id="flowRoot5124"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5126"><rect
+           y="2796.6021"
+           x="322.4407"
+           height="1006.92"
+           width="4072.9351"
+           id="rect5128" /></flowRegion><flowPara
+         id="flowPara5130" /></flowRoot>    <flowRoot
+       style="fill:black;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt;font-family:Muli;font-style:normal;font-weight:380;font-size:64px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Muli Semi-Light;font-stretch:normal;font-variant:normal"
+       id="flowRoot5132"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5134"><rect
+           y="1942.4171"
+           x="282.84271"
+           height="67.882248"
+           width="497.80316"
+           id="rect5136" /></flowRegion><flowPara
+         id="flowPara5138" /></flowRoot>    <flowRoot
+       transform="matrix(0.89394808,-0.44817054,0.44817054,0.89394808,-825.94868,-3364.1467)"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Muli;-inkscape-font-specification:Muli Semi-Light"
+       id="flowRoot5182"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5184"><rect
+           y="2859.3069"
+           x="484"
+           height="816"
+           width="2784"
+           id="rect5186" /></flowRegion><flowPara
+         style="font-size:72px"
+         id="flowPara5190">Mars orbits the sun in about two of our years, </flowPara><flowPara
+         style="font-size:72px"
+         id="flowPara5196">which means this goes around Lake Eola fountain</flowPara><flowPara
+         style="font-size:72px"
+         id="flowPara5200">in a rough circle, at half the pace of a snail.</flowPara></flowRoot>    <flowRoot
+       style="fill:black;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt;font-family:Muli;font-style:normal;font-weight:380;font-size:64px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Muli Semi-Light;font-stretch:normal;font-variant:normal"
+       id="flowRoot5202"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5204"><rect
+           y="2143.2354"
+           x="1445.3263"
+           height="79.195961"
+           width="837.21442"
+           id="rect5206" /></flowRegion><flowPara
+         id="flowPara5208" /></flowRoot>    <flowRoot
+       style="fill:black;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt;font-family:Muli;font-style:normal;font-weight:380;font-size:64px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Muli Semi-Light;font-stretch:normal;font-variant:normal"
+       id="flowRoot5210"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5212"><rect
+           y="1659.3069"
+           x="1452"
+           height="1332"
+           width="1684"
+           id="rect5214" /></flowRegion><flowPara
+         id="flowPara5216" /></flowRoot>    <path
+       inkscape:connector-curvature="0"
+       id="path6590"
+       d="m 1047.5,68.8499 -266,-522"
+       style="fill:none;stroke:#e6e600;stroke-width:3.54330707;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1LendI)"
+       clip-path="url(#clipPath7601)" />
+    <path
+       style="fill:none;stroke:#e6e600;stroke-width:3.54330707;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1LendI)"
+       d="m 1027.5,176.3499 -266,-522"
+       id="path7371"
+       inkscape:connector-curvature="0"
+       clip-path="url(#clipPath7597)" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path7373"
+       d="m 989.5,241.3499 -266,-522"
+       style="fill:none;stroke:#e6e600;stroke-width:3.54330707;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1LendI)"
+       clip-path="url(#clipPath7593)" />
+    <g
+       id="g7605">
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:#a51c1c;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:9.72405529;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path3118"
+         sodipodi:cx="580"
+         sodipodi:cy="803.30688"
+         sodipodi:rx="184"
+         sodipodi:ry="184"
+         d="m 764,803.30688 c 0,101.6204 -82.37961,184 -184,184 -101.62039,0 -184,-82.3796 -184,-184 0,-101.62039 82.37961,-184 184,-184 101.62039,0 184,82.37961 184,184 z"
+         transform="matrix(1.091505,0,0,1.0948117,-69.748519,-1316.353)"
+         inkscape:transform-center-x="-96.166522"
+         inkscape:transform-center-y="-814.58701" />
+      <path
+         clip-path="url(#clipPath7589)"
+         inkscape:connector-curvature="0"
+         id="path7375"
+         d="m 936,282.3499 -266,-522"
+         style="fill:none;stroke:#e6e600;stroke-width:3.54330707;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1LendI)" />
+      <path
+         clip-path="url(#clipPath7585)"
+         style="fill:none;stroke:#e6e600;stroke-width:3.54330707;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1LendI)"
+         d="m 870,304.3499 -266,-522"
+         id="path7377"
+         inkscape:connector-curvature="0" />
+      <path
+         clip-path="url(#clipPath7581)"
+         inkscape:connector-curvature="0"
+         id="path7379"
+         d="m 793,303.3499 -266,-522"
+         style="fill:none;stroke:#e6e600;stroke-width:3.54330707;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1LendI)" />
+      <path
+         clip-path="url(#clipPath7577)"
+         style="fill:none;stroke:#e6e600;stroke-width:3.54330707;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1LendI)"
+         d="m 696.1741,258.42602 -266,-522"
+         id="path7381"
+         inkscape:connector-curvature="0" />
+    </g>
+    <path
+       style="fill:none;fill-opacity:0;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:2.50000000000000000"
+       d="m 784,-559.6501 1494,4 -10,718 -1118,4 z"
+       id="rect7612"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <flowRoot
+       xml:space="preserve"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Muli;-inkscape-font-specification:Muli Semi-Light"
+       id="flowRoot7615"
+       transform="translate(52,116)"><flowRegion
+         id="flowRegion7617"><use
+           x="0"
+           y="0"
+           xlink:href="#rect7612"
+           id="use7619"
+           width="3543.3069"
+           height="3543.3069" /></flowRegion><flowPara
+         id="flowPara7621"
+         style="text-align:start;line-height:123.00000191%;text-anchor:start">At the scale of this model (1:44 million),</flowPara><flowPara
+         id="flowPara7623"
+         style="text-align:start;line-height:123.00000191%;text-anchor:start">light travels as fast as a quick jog.</flowPara><flowPara
+         style="text-align:start;line-height:123.00000191%;text-anchor:start"
+         id="flowPara7625">Sunlight travels through space</flowPara><flowPara
+         id="flowPara7627"
+         style="text-align:start;line-height:123.00000191%;text-anchor:start">for 12 minutes, 40 seconds</flowPara><flowPara
+         id="flowPara7629"
+         style="text-align:start;line-height:123.00000191%;text-anchor:start">before ever touching</flowPara><flowPara
+         style="text-align:start;line-height:123.00000191%;text-anchor:start"
+         id="flowPara7631">the red planet,</flowPara><flowPara
+         id="flowPara7633"
+         style="font-size:72px;text-align:start;line-height:123.00000191%;letter-spacing:2.7099998px;text-anchor:start">MARS.</flowPara></flowRoot>    <path
+       style="color:#000000;fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke:#008016;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m -1463.6938,-1487.1884 c 0,-91.9192 74.8224,-166.4345 167.1206,-166.4345 92.2982,0 167.1206,74.5153 167.1206,166.4345"
+       id="path3181"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csc"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-640.png"
+       inkscape:export-xdpi="61.592663"
+       inkscape:export-ydpi="61.592663" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3183"
+       d="m -1763.8901,-1520.9181 c 0,0 0,0 0,0 0,18.1235 14.8588,32.8155 33.1879,32.8155 18.3292,0 33.1879,-14.692 33.1879,-32.8155"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-640.png"
+       inkscape:export-xdpi="61.592663"
+       inkscape:export-ydpi="61.592663" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3185"
+       d="m -1564.9235,-1520.9181 c 0,0 0,0 0,0 0,18.1235 14.8587,32.8155 33.1879,32.8155 18.3291,0 33.1879,-14.692 33.1879,-32.8155"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-640.png"
+       inkscape:export-xdpi="61.592663"
+       inkscape:export-ydpi="61.592663" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3187"
+       d="m -1299.6347,-1520.9181 c 0,0 0,0 0,0 0,18.1235 14.8587,32.8155 33.1878,32.8155 18.3292,0 33.1879,-14.692 33.1879,-32.8155"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-640.png"
+       inkscape:export-xdpi="61.592663"
+       inkscape:export-ydpi="61.592663" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3189"
+       d="m -1498.6013,-1520.9181 c 0,0 0,0 0,0 0,18.1235 14.8587,32.8155 33.1879,32.8155 18.3291,0 33.1879,-14.692 33.1879,-32.8155"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-640.png"
+       inkscape:export-xdpi="61.592663"
+       inkscape:export-ydpi="61.592663" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3191"
+       d="m -1166.9903,-1520.9181 c 0,0 0,0 0,0 0,18.1235 14.8587,32.8155 33.1878,32.8155 18.3292,0 33.1879,-14.692 33.1879,-32.8155"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-640.png"
+       inkscape:export-xdpi="61.592663"
+       inkscape:export-ydpi="61.592663" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3193"
+       d="m -1100.6682,-1520.9181 c 0,0 0,0 0,0 0,18.1235 14.8588,32.8155 33.1879,32.8155 18.3292,0 33.1879,-14.692 33.1879,-32.8155"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-640.png"
+       inkscape:export-xdpi="61.592663"
+       inkscape:export-ydpi="61.592663" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3195"
+       d="m -1631.2457,-1520.9181 c 0,0 0,0 0,0 0,18.1235 14.8587,32.8155 33.1879,32.8155 18.3292,0 33.1879,-14.692 33.1879,-32.8155"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-640.png"
+       inkscape:export-xdpi="61.592663"
+       inkscape:export-ydpi="61.592663" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3197"
+       d="m -1034.346,-1520.9181 c 0,0 0,0 0,0 0,18.1235 14.8587,32.8155 33.1879,32.8155 18.3292,0 33.1879,-14.692 33.1879,-32.8155"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-640.png"
+       inkscape:export-xdpi="61.592663"
+       inkscape:export-ydpi="61.592663" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3199"
+       d="m -1697.5679,-1520.9181 c 0,0 0,0 0,0 0,18.1235 14.8587,32.8155 33.1879,32.8155 18.3292,0 33.1879,-14.692 33.1879,-32.8155"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-640.png"
+       inkscape:export-xdpi="61.592663"
+       inkscape:export-ydpi="61.592663" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3201"
+       d="m -1830.2123,-1520.9181 c 0,0 0,0 0,0 0,18.1235 14.8588,32.8155 33.1879,32.8155 18.3292,0 33.1879,-14.692 33.1879,-32.8155"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-640.png"
+       inkscape:export-xdpi="61.592663"
+       inkscape:export-ydpi="61.592663" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3203"
+       d="m -1432.2791,-1520.9181 c 0,0 0,0 0,0 0,18.1235 14.8587,32.8155 33.1879,32.8155 18.3291,0 33.1879,-14.692 33.1879,-32.8155"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-640.png"
+       inkscape:export-xdpi="61.592663"
+       inkscape:export-ydpi="61.592663" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3205"
+       d="m -1365.9569,-1520.9181 c 0,0 0,0 0,0 0,18.1235 14.8587,32.8155 33.1879,32.8155 18.3291,0 33.1879,-14.692 33.1879,-32.8155"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-640.png"
+       inkscape:export-xdpi="61.592663"
+       inkscape:export-ydpi="61.592663" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3207"
+       d="m -1233.3125,-1520.9181 c 0,0 0,0 0,0 0,18.1235 14.8587,32.8155 33.1878,32.8155 18.3292,0 33.1879,-14.692 33.1879,-32.8155"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-640.png"
+       inkscape:export-xdpi="61.592663"
+       inkscape:export-ydpi="61.592663" />
+    <g
+       id="g3209"
+       transform="matrix(0.47248493,0,0,0.25363826,-1914.6914,-1300.6799)"
+       style="stroke-width:20.47092247;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-640.png"
+       inkscape:export-xdpi="61.592663"
+       inkscape:export-ydpi="61.592663">
+      <path
+         sodipodi:nodetypes="ccccccccccccccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path3211"
+         d="m 1348.2244,-1477.6501 0,-19.1008 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 c -0.6105,-157.0536 139.3895,-157.0536 136.2727,2.0782"
+         style="fill:none;stroke:#314fc5;stroke-width:20.47092247;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         style="fill:none;stroke:#314fc5;stroke-width:20.47092247;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 1308.1213,-1477.6501 0,-214.4196 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 c -0.6105,-157.0536 139.3895,-157.0536 136.2727,2.0782"
+         id="path3213"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccc" />
+      <path
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path3215"
+         d="m 1268.2322,-1477.6501 0,-71.7519 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 c 0.6105,-157.0536 -139.3895,-157.0536 -136.2727,2.0782"
+         style="fill:none;stroke:#314fc5;stroke-width:20.47092247;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3227"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Muli;-inkscape-font-specification:Muli Semi-Light"
+       transform="translate(-2001.5732,-1981.3411)"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-640.png"
+       inkscape:export-xdpi="61.592663"
+       inkscape:export-ydpi="61.592663"><flowRegion
+         id="flowRegion3229"><rect
+           id="rect3231"
+           width="281.42856"
+           height="122.14286"
+           x="565.71429"
+           y="384.73544"
+           style="font-style:normal;font-variant:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Muli;-inkscape-font-specification:Muli Semi-Light" /></flowRegion><flowPara
+         id="flowPara3233"
+         style="font-size:64px;font-style:normal;font-variant:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Muli;-inkscape-font-specification:Muli Semi-Light">fountain</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3243"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Muli;-inkscape-font-specification:Muli Semi-Light"
+       transform="translate(-2453.174,-1848.4661)"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-640.png"
+       inkscape:export-xdpi="61.592663"
+       inkscape:export-ydpi="61.592663"><flowRegion
+         id="flowRegion3245"><rect
+           id="rect3247"
+           width="430.14288"
+           height="213.42857"
+           x="545.71429"
+           y="251.87831"
+           style="font-style:normal;font-variant:normal;font-stretch:normal;font-family:Muli;-inkscape-font-specification:Muli Semi-Light" /></flowRegion><flowPara
+         id="flowPara3249"
+         style="text-align:end;text-anchor:end">the Lake Eola</flowPara></flowRoot>    <path
+       clip-path="url(#clipPath4075-1)"
+       inkscape:connector-curvature="0"
+       id="path3285"
+       d="m 1182.0312,-33.3632 -0.125,98.3124 c 0.042,0 0.083,0 0.125,0 0.042,0 0.083,0 0.125,0 l -0.125,-98.3124 z m -77.125,10.1562 25.3126,94.9688 c 0.083,-0.0223 0.1667,-0.0404 0.25,-0.0626 l -25.5626,-94.9062 z m 154.25,0 -25.5624,94.9062 c 0.083,0.0222 0.1667,0.0403 0.25,0.0626 l 25.3124,-94.9688 z m -226.125,29.75 49.0626,85.2188 c 0.073,-0.0422 0.1459,-0.083 0.2187,-0.125 L 1033.0312,6.543 z m 298,0 -49.25,85.0625 c 0.073,0.0423 0.1457,0.0826 0.2188,0.125 L 1331.0312,6.543 z m -359.7187,47.375 69.4375,69.625 c 0.062,-0.0625 0.125,-0.1251 0.1875,-0.1875 L 971.3125,53.918 z m 421.4375,0 -69.625,69.4375 c 0.063,0.0625 0.125,0.1249 0.1875,0.1875 L 1392.75,53.918 z m -468.78125,61.7188 85.06245,49.25 c 0.042,-0.073 0.083,-0.1459 0.125,-0.2188 l -85.18745,-49.0312 z m 516.15625,0 -85.1875,49.0312 c 0.042,0.0731 0.083,0.1456 0.125,0.2188 l 85.0625,-49.25 z m -545.9375,71.875 94.90625,25.5624 c 0.0222,-0.0832 0.0402,-0.1667 0.0625,-0.25 L 894.1875,187.5118 z m 575.6875,0 -94.9688,25.3124 c 0.022,0.0831 0.04,0.167 0.063,0.25 l 94.9062,-25.5624 z m -487.5,77 -98.34375,0.125 98.34375,0.125 c -3e-5,-0.0418 0,-0.0833 0,-0.125 0,-0.0418 -3e-5,-0.0833 0,-0.125 z m 399.3438,0 c 0,0.0417 0,0.0832 0,0.125 0,0.0417 0,0.0832 0,0.125 l 98.3124,-0.125 -98.3124,-0.125 z m -392.62505,51.6874 -94.90625,25.5626 94.96875,-25.3126 c -0.0223,-0.0832 -0.0403,-0.1667 -0.0625,-0.25 z m 385.87505,0 c -0.022,0.0831 -0.04,0.167 -0.063,0.25 l 94.9688,25.3126 -94.9062,-25.5626 z m -19.9376,48.1563 c -0.042,0.0728 -0.083,0.146 -0.125,0.2187 l 85.2188,49.0626 -85.0938,-49.2813 z m -346,0.0313 -85.06245,49.25 85.18745,-49.0313 c -0.042,-0.0725 -0.083,-0.1462 -0.125,-0.2187 z m 31.7188,41.3437 -69.4375,69.625 69.625,-69.4375 c -0.062,-0.0624 -0.1251,-0.125 -0.1875,-0.1875 z m 282.5625,0 c -0.062,0.0626 -0.1249,0.125 -0.1875,0.1875 l 69.625,69.4375 -69.4375,-69.625 z m -241.25,31.7813 -49.0313,85.1874 49.25,-85.0624 c -0.072,-0.042 -0.1462,-0.083 -0.2187,-0.125 z m 199.9375,0 c -0.073,0.0422 -0.1458,0.0828 -0.2188,0.125 l 49.25,85.0624 L 1282,437.5118 z m -151.7812,20 -25.3126,94.9687 25.5626,-94.9063 c -0.083,-0.0221 -0.1668,-0.0402 -0.25,-0.0624 z m 103.625,0 c -0.083,0.0222 -0.1668,0.0403 -0.25,0.0624 l 25.5624,94.9063 -25.3124,-94.9687 z m -51.9376,6.7812 0.125,98.3438 0.125,-98.3438 c -0.042,0 -0.083,0 -0.125,0 -0.042,0 -0.083,0 -0.125,0 z"
+       mask="none"
+       style="fill:none;stroke:#e5e000;stroke-width:8.69999980999999956;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:13.91999968999999915;display:inline"
+       transform="translate(-2478.6045,-1746.7929)"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-640.png"
+       inkscape:export-xdpi="61.592663"
+       inkscape:export-ydpi="61.592663" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3251"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Muli;-inkscape-font-specification:Muli Semi-Light"
+       transform="translate(-1999.1669,-1706.5355)"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-640.png"
+       inkscape:export-xdpi="61.592663"
+       inkscape:export-ydpi="61.592663"><flowRegion
+         id="flowRegion3253"><rect
+           id="rect3255"
+           width="329.28571"
+           height="205"
+           x="540"
+           y="244.02116"
+           style="font-style:normal;font-variant:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Muli;-inkscape-font-specification:Muli Semi-Light" /></flowRegion><flowPara
+         id="flowPara3257">the SUN</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3259"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Muli;-inkscape-font-specification:Muli Semi-Light"
+       transform="translate(-1311.3414,-1669.0286)"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-640.png"
+       inkscape:export-xdpi="61.592663"
+       inkscape:export-ydpi="61.592663"><flowRegion
+         id="flowRegion3261"><rect
+           id="rect3263"
+           width="479.82245"
+           height="199.00005"
+           x="190.91884"
+           y="72.422737"
+           style="font-style:normal;font-variant:normal;font-stretch:normal;font-family:Muli;-inkscape-font-specification:Muli Semi-Light" /></flowRegion><flowPara
+         id="flowPara3265">dome</flowPara></flowRoot>    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#5bac6a;fill-opacity:0;fill-rule:evenodd;stroke:#e5e000;stroke-width:67.10867859000001090;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter3872);enable-background:accumulate"
+       id="path3275"
+       sodipodi:cx="187.88837"
+       sodipodi:cy="-1444.8264"
+       sodipodi:rx="563.6651"
+       sodipodi:ry="555.58392"
+       d="m 751.55347,-1444.8264 a 563.6651,555.58392 0 1 1 -1127.3302,0 l 563.6651,0 z"
+       transform="matrix(0.2964892,0,0,0.29956684,-1352.2801,-1050.0061)"
+       sodipodi:start="0"
+       sodipodi:end="3.1415927"
+       clip-path="url(#clipPath4015)"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-640.png"
+       inkscape:export-xdpi="61.592663"
+       inkscape:export-ydpi="61.592663" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3277"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Muli;-inkscape-font-specification:Muli Semi-Light"
+       transform="translate(390,-1767.957)"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-640.png"
+       inkscape:export-xdpi="61.592663"
+       inkscape:export-ydpi="61.592663"><flowRegion
+         id="flowRegion3279"><rect
+           id="rect3281"
+           width="596"
+           height="212"
+           x="-2416"
+           y="31.306885" /></flowRegion><flowPara
+         id="flowPara3283"
+         style="font-size:120px;font-style:italic;font-weight:normal;text-align:end;text-anchor:end;-inkscape-font-specification:Muli Italic">Imagine</flowPara></flowRoot>    <path
+       style="color:#000000;fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke:#008016;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m -3663.6302,-1034.6945 c 0,-91.9192 74.8224,-166.4345 167.1206,-166.4345 92.2982,0 167.1206,74.5153 167.1206,166.4345"
+       id="path3181-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csc"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-640.png"
+       inkscape:export-xdpi="61.592663"
+       inkscape:export-ydpi="61.592663" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3185-5"
+       d="m -3764.8599,-1068.4242 c 0,0 0,0 0,0 0,18.1235 14.8587,32.8155 33.1879,32.8155 18.3291,0 33.1879,-14.692 33.1879,-32.8155"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-640.png"
+       inkscape:export-xdpi="61.592663"
+       inkscape:export-ydpi="61.592663" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3187-8"
+       d="m -3499.5711,-1068.4242 c 0,0 0,0 0,0 0,18.1235 14.8587,32.8155 33.1878,32.8155 18.3292,0 33.1879,-14.692 33.1879,-32.8155"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-640.png"
+       inkscape:export-xdpi="61.592663"
+       inkscape:export-ydpi="61.592663" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3189-3"
+       d="m -3698.5377,-1068.4242 c 0,0 0,0 0,0 0,18.1235 14.8587,32.8155 33.1879,32.8155 18.3291,0 33.1879,-14.692 33.1879,-32.8155"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-640.png"
+       inkscape:export-xdpi="61.592663"
+       inkscape:export-ydpi="61.592663" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3191-1"
+       d="m -3366.9267,-1068.4242 c 0,0 0,0 0,0 0,18.1235 14.8587,32.8155 33.1878,32.8155 18.3292,0 33.1879,-14.692 33.1879,-32.8155"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-640.png"
+       inkscape:export-xdpi="61.592663"
+       inkscape:export-ydpi="61.592663" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3193-4"
+       d="m -3300.6046,-1068.4242 c 0,0 0,0 0,0 0,18.1235 14.8588,32.8155 33.1879,32.8155 18.3292,0 33.1879,-14.692 33.1879,-32.8155"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-640.png"
+       inkscape:export-xdpi="61.592663"
+       inkscape:export-ydpi="61.592663" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3195-4"
+       d="m -3831.1821,-1068.4242 c 0,0 0,0 0,0 0,18.1235 14.8587,32.8155 33.1879,32.8155 18.3292,0 33.1879,-14.692 33.1879,-32.8155"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-640.png"
+       inkscape:export-xdpi="61.592663"
+       inkscape:export-ydpi="61.592663" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3197-2"
+       d="m -3234.2824,-1068.4242 c 0,0 0,0 0,0 0,18.1235 14.8587,32.8155 33.1879,32.8155 18.3292,0 33.1879,-14.692 33.1879,-32.8155"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-640.png"
+       inkscape:export-xdpi="61.592663"
+       inkscape:export-ydpi="61.592663" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3203-0"
+       d="m -3632.2155,-1068.4242 c 0,0 0,0 0,0 0,18.1235 14.8587,32.8155 33.1879,32.8155 18.3291,0 33.1879,-14.692 33.1879,-32.8155"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-640.png"
+       inkscape:export-xdpi="61.592663"
+       inkscape:export-ydpi="61.592663" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3205-2"
+       d="m -3565.8933,-1068.4242 c 0,0 0,0 0,0 0,18.1235 14.8587,32.8155 33.1879,32.8155 18.3291,0 33.1879,-14.692 33.1879,-32.8155"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-640.png"
+       inkscape:export-xdpi="61.592663"
+       inkscape:export-ydpi="61.592663" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3207-2"
+       d="m -3433.2489,-1068.4242 c 0,0 0,0 0,0 0,18.1235 14.8587,32.8155 33.1878,32.8155 18.3292,0 33.1879,-14.692 33.1879,-32.8155"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-640.png"
+       inkscape:export-xdpi="61.592663"
+       inkscape:export-ydpi="61.592663" />
+    <g
+       id="g3209-0"
+       transform="matrix(0.47248493,0,0,0.25363826,-4114.6278,-848.18597)"
+       style="stroke-width:20.47092247;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-640.png"
+       inkscape:export-xdpi="61.592663"
+       inkscape:export-ydpi="61.592663">
+      <path
+         sodipodi:nodetypes="ccccccccccccccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path3211-2"
+         d="m 1348.2244,-1477.6501 0,-19.1008 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 c -0.6105,-157.0536 139.3895,-157.0536 136.2727,2.0782"
+         style="fill:none;stroke:#314fc5;stroke-width:20.47092247;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         style="fill:none;stroke:#314fc5;stroke-width:20.47092247;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 1308.1213,-1477.6501 0,-214.4196 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 c -0.6105,-157.0536 139.3895,-157.0536 136.2727,2.0782"
+         id="path3213-5"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccc" />
+      <path
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path3215-0"
+         d="m 1268.2322,-1477.6501 0,-71.7519 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 c 0.6105,-157.0536 -139.3895,-157.0536 -136.2727,2.0782"
+         style="fill:none;stroke:#314fc5;stroke-width:20.47092247;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <path
+       clip-path="url(#clipPath4075-1-9)"
+       inkscape:connector-curvature="0"
+       id="path3285-1"
+       d="m 1182.0312,-33.3632 -0.125,98.3124 c 0.042,0 0.083,0 0.125,0 0.042,0 0.083,0 0.125,0 l -0.125,-98.3124 z m -77.125,10.1562 25.3126,94.9688 c 0.083,-0.0223 0.1667,-0.0404 0.25,-0.0626 l -25.5626,-94.9062 z m 154.25,0 -25.5624,94.9062 c 0.083,0.0222 0.1667,0.0403 0.25,0.0626 l 25.3124,-94.9688 z m -226.125,29.75 49.0626,85.2188 c 0.073,-0.0422 0.1459,-0.083 0.2187,-0.125 L 1033.0312,6.543 z m 298,0 -49.25,85.0625 c 0.073,0.0423 0.1457,0.0826 0.2188,0.125 L 1331.0312,6.543 z m -359.7187,47.375 69.4375,69.625 c 0.062,-0.0625 0.125,-0.1251 0.1875,-0.1875 L 971.3125,53.918 z m 421.4375,0 -69.625,69.4375 c 0.063,0.0625 0.125,0.1249 0.1875,0.1875 L 1392.75,53.918 z m -468.78125,61.7188 85.06245,49.25 c 0.042,-0.073 0.083,-0.1459 0.125,-0.2188 l -85.18745,-49.0312 z m 516.15625,0 -85.1875,49.0312 c 0.042,0.0731 0.083,0.1456 0.125,0.2188 l 85.0625,-49.25 z m -545.9375,71.875 94.90625,25.5624 c 0.0222,-0.0832 0.0402,-0.1667 0.0625,-0.25 L 894.1875,187.5118 z m 575.6875,0 -94.9688,25.3124 c 0.022,0.0831 0.04,0.167 0.063,0.25 l 94.9062,-25.5624 z m -487.5,77 -98.34375,0.125 98.34375,0.125 c -3e-5,-0.0418 0,-0.0833 0,-0.125 0,-0.0418 -3e-5,-0.0833 0,-0.125 z m 399.3438,0 c 0,0.0417 0,0.0832 0,0.125 0,0.0417 0,0.0832 0,0.125 l 98.3124,-0.125 -98.3124,-0.125 z m -392.62505,51.6874 -94.90625,25.5626 94.96875,-25.3126 c -0.0223,-0.0832 -0.0403,-0.1667 -0.0625,-0.25 z m 385.87505,0 c -0.022,0.0831 -0.04,0.167 -0.063,0.25 l 94.9688,25.3126 -94.9062,-25.5626 z m -19.9376,48.1563 c -0.042,0.0728 -0.083,0.146 -0.125,0.2187 l 85.2188,49.0626 -85.0938,-49.2813 z m -346,0.0313 -85.06245,49.25 85.18745,-49.0313 c -0.042,-0.0725 -0.083,-0.1462 -0.125,-0.2187 z m 31.7188,41.3437 -69.4375,69.625 69.625,-69.4375 c -0.062,-0.0624 -0.1251,-0.125 -0.1875,-0.1875 z m 282.5625,0 c -0.062,0.0626 -0.1249,0.125 -0.1875,0.1875 l 69.625,69.4375 -69.4375,-69.625 z m -241.25,31.7813 -49.0313,85.1874 49.25,-85.0624 c -0.072,-0.042 -0.1462,-0.083 -0.2187,-0.125 z m 199.9375,0 c -0.073,0.0422 -0.1458,0.0828 -0.2188,0.125 l 49.25,85.0624 L 1282,437.5118 z m -151.7812,20 -25.3126,94.9687 25.5626,-94.9063 c -0.083,-0.0221 -0.1668,-0.0402 -0.25,-0.0624 z m 103.625,0 c -0.083,0.0222 -0.1668,0.0403 -0.25,0.0624 l 25.5624,94.9063 -25.3124,-94.9687 z m -51.9376,6.7812 0.125,98.3438 0.125,-98.3438 c -0.042,0 -0.083,0 -0.125,0 -0.042,0 -0.083,0 -0.125,0 z"
+       mask="none"
+       style="fill:none;stroke:#e5e000;stroke-width:8.69999981;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:13.91999969;display:inline"
+       transform="translate(-4678.5409,-1294.299)"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-640.png"
+       inkscape:export-xdpi="61.592663"
+       inkscape:export-ydpi="61.592663" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#5bac6a;fill-opacity:0;fill-rule:evenodd;stroke:#e5e000;stroke-width:67.10868073;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter3872-48);enable-background:accumulate"
+       id="path3275-5"
+       sodipodi:cx="187.88837"
+       sodipodi:cy="-1444.8264"
+       sodipodi:rx="563.6651"
+       sodipodi:ry="555.58392"
+       d="m 751.55347,-1444.8264 a 563.6651,555.58392 0 1 1 -1127.3302,0 l 563.6651,0 z"
+       transform="matrix(0.2964892,0,0,0.29956684,-3552.2165,-597.51217)"
+       sodipodi:start="0"
+       sodipodi:end="3.1415927"
+       clip-path="url(#clipPath4015-26)"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-640.png"
+       inkscape:export-xdpi="61.592663"
+       inkscape:export-ydpi="61.592663" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3462"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Muli;-inkscape-font-specification:Muli Semi-Light"
+       transform="translate(-195.16147,-2193.9721)"><flowRegion
+         id="flowRegion3464"><rect
+           id="rect3466"
+           width="407.29333"
+           height="364.86716"
+           x="-3507.2495"
+           y="1071.2616" /></flowRegion><flowPara
+         style="font-size:56px;text-align:center;text-anchor:middle"
+         id="flowPara3480" /></flowRoot>    <flowRoot
+       transform="translate(0.142136,-2234.957)"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:none;fill-opacity:1;stroke:#ffffff;font-family:Muli;-inkscape-font-specification:Muli Semi-Light;stroke-opacity:1;stroke-width:12;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter4487)"
+       id="flowRoot3523"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3525"><rect
+           style="text-align:center;text-anchor:middle;stroke:#ffffff;stroke-opacity:1;stroke-width:12;stroke-miterlimit:4;stroke-dasharray:none;fill:none"
+           y="987.69312"
+           x="-3560.2842"
+           height="675.99915"
+           width="585.58276"
+           id="rect3527" /></flowRegion><flowPara
+         style="font-size:170px;font-style:italic;text-align:center;text-anchor:middle;-inkscape-font-specification:Muli Semi-Light Italic;stroke:#ffffff;stroke-opacity:1;stroke-width:12;stroke-miterlimit:4;stroke-dasharray:none;fill:none"
+         id="flowPara3529">Eola Sun</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3487"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Muli;-inkscape-font-specification:Muli Semi-Light;opacity:1"
+       transform="translate(0.142136,-2234.957)"><flowRegion
+         id="flowRegion3489"><rect
+           id="rect3491"
+           width="585.58276"
+           height="675.99915"
+           x="-3560.2842"
+           y="987.69312"
+           style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         id="flowPara3493"
+         style="font-size:170px;font-style:italic;text-align:center;text-anchor:middle;-inkscape-font-specification:Muli Semi-Light Italic">Eola Sun</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3495"
+       style="fill:black;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt;font-family:Muli;font-style:normal;font-weight:380;font-size:64px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Muli Semi-Light;font-stretch:normal;font-variant:normal"><flowRegion
+         id="flowRegion3497"><rect
+           id="rect3499"
+           width="758.01849"
+           height="251.73001"
+           x="-3829.6904"
+           y="1509.6677" /></flowRegion><flowPara
+         id="flowPara3501" /></flowRoot>    <flowRoot
+       transform="translate(-7,-2471.957)"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;fill-opacity:1;stroke:#ffffff;font-family:Muli;-inkscape-font-specification:Muli Semi-Light;stroke-opacity:1;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter4499)"
+       id="flowRoot3531"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3533"><rect
+           y="1610.3069"
+           x="-3849"
+           height="163"
+           width="770"
+           id="rect3535"
+           style="stroke:#ffffff;stroke-opacity:1;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none;fill:none" /></flowRegion><flowPara
+         style="text-align:center;text-anchor:middle;stroke:#ffffff;stroke-opacity:1;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none;fill:none"
+         id="flowPara3537">Largest solar-system model in the USA</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3515"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Muli;-inkscape-font-specification:Muli Semi-Light"
+       transform="translate(-7,-2471.957)"><flowRegion
+         id="flowRegion3517"><rect
+           id="rect3519"
+           width="770"
+           height="163"
+           x="-3849"
+           y="1610.3069" /></flowRegion><flowPara
+         id="flowPara3521"
+         style="text-align:center;text-anchor:middle">Largest solar-system model in the USA</flowPara></flowRoot>    <path
+       inkscape:export-ydpi="61.592663"
+       inkscape:export-xdpi="61.592663"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-640.png"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m -1564.9235,-1520.9181 c 0,0 0,0 0,0 0,18.1235 14.8587,32.8155 33.1879,32.8155 18.3291,0 33.1879,-14.692 33.1879,-32.8155"
+       id="path4503"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="61.592663"
+       inkscape:export-xdpi="61.592663"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-640.png"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m -1299.6347,-1520.9181 c 0,0 0,0 0,0 0,18.1235 14.8587,32.8155 33.1878,32.8155 18.3292,0 33.1879,-14.692 33.1879,-32.8155"
+       id="path4505"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="61.592663"
+       inkscape:export-xdpi="61.592663"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-640.png"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m -1498.6013,-1520.9181 c 0,0 0,0 0,0 0,18.1235 14.8587,32.8155 33.1879,32.8155 18.3291,0 33.1879,-14.692 33.1879,-32.8155"
+       id="path4507"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="61.592663"
+       inkscape:export-xdpi="61.592663"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-640.png"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m -1166.9903,-1520.9181 c 0,0 0,0 0,0 0,18.1235 14.8587,32.8155 33.1878,32.8155 18.3292,0 33.1879,-14.692 33.1879,-32.8155"
+       id="path4509"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="61.592663"
+       inkscape:export-xdpi="61.592663"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-640.png"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m -1100.6682,-1520.9181 c 0,0 0,0 0,0 0,18.1235 14.8588,32.8155 33.1879,32.8155 18.3292,0 33.1879,-14.692 33.1879,-32.8155"
+       id="path4511"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="61.592663"
+       inkscape:export-xdpi="61.592663"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-640.png"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m -1631.2457,-1520.9181 c 0,0 0,0 0,0 0,18.1235 14.8587,32.8155 33.1879,32.8155 18.3292,0 33.1879,-14.692 33.1879,-32.8155"
+       id="path4513"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="61.592663"
+       inkscape:export-xdpi="61.592663"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-640.png"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m -1034.346,-1520.9181 c 0,0 0,0 0,0 0,18.1235 14.8587,32.8155 33.1879,32.8155 18.3292,0 33.1879,-14.692 33.1879,-32.8155"
+       id="path4515"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="61.592663"
+       inkscape:export-xdpi="61.592663"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-640.png"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m -1432.2791,-1520.9181 c 0,0 0,0 0,0 0,18.1235 14.8587,32.8155 33.1879,32.8155 18.3291,0 33.1879,-14.692 33.1879,-32.8155"
+       id="path4517"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="61.592663"
+       inkscape:export-xdpi="61.592663"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-640.png"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m -1365.9569,-1520.9181 c 0,0 0,0 0,0 0,18.1235 14.8587,32.8155 33.1879,32.8155 18.3291,0 33.1879,-14.692 33.1879,-32.8155"
+       id="path4519"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="61.592663"
+       inkscape:export-xdpi="61.592663"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-640.png"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m -1233.3125,-1520.9181 c 0,0 0,0 0,0 0,18.1235 14.8587,32.8155 33.1878,32.8155 18.3292,0 33.1879,-14.692 33.1879,-32.8155"
+       id="path4521"
+       inkscape:connector-curvature="0" />
+    <g
+       inkscape:export-ydpi="61.592663"
+       inkscape:export-xdpi="61.592663"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-640.png"
+       style="stroke-width:20.47092247;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="matrix(0.47248493,0,0,0.25363826,-1914.6914,-1300.6799)"
+       id="g4523">
+      <path
+         style="fill:none;stroke:#314fc5;stroke-width:20.47092247;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 1348.2244,-1477.6501 0,-19.1008 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 c -0.6105,-157.0536 139.3895,-157.0536 136.2727,2.0782"
+         id="path4525"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccccccccccccccccccccccccc" />
+      <path
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path4527"
+         d="m 1308.1213,-1477.6501 0,-214.4196 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 c -0.6105,-157.0536 139.3895,-157.0536 136.2727,2.0782"
+         style="fill:none;stroke:#314fc5;stroke-width:20.47092247;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         style="fill:none;stroke:#314fc5;stroke-width:20.47092247;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 1268.2322,-1477.6501 0,-71.7519 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 c 0.6105,-157.0536 -139.3895,-157.0536 -136.2727,2.0782"
+         id="path4529"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccc" />
+    </g>
+    <flowRoot
+       inkscape:export-ydpi="61.592663"
+       inkscape:export-xdpi="61.592663"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-640.png"
+       transform="translate(-2001.5732,-1981.3411)"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Muli;-inkscape-font-specification:Muli Semi-Light"
+       id="flowRoot4531"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4533"><rect
+           style="font-style:normal;font-variant:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Muli;-inkscape-font-specification:Muli Semi-Light"
+           y="384.73544"
+           x="565.71429"
+           height="122.14286"
+           width="281.42856"
+           id="rect4535" /></flowRegion><flowPara
+         style="font-size:64px;font-style:normal;font-variant:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Muli;-inkscape-font-specification:Muli Semi-Light"
+         id="flowPara4537">fountain</flowPara></flowRoot>    <path
+       inkscape:export-ydpi="61.592663"
+       inkscape:export-xdpi="61.592663"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-640.png"
+       transform="translate(-2478.6045,-1746.7929)"
+       style="fill:none;stroke:#e5e000;stroke-width:8.69999980999999956;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:13.91999968999999915;display:inline"
+       mask="none"
+       d="m 1182.0312,-33.3632 -0.125,98.3124 c 0.042,0 0.083,0 0.125,0 0.042,0 0.083,0 0.125,0 l -0.125,-98.3124 z m -77.125,10.1562 25.3126,94.9688 c 0.083,-0.0223 0.1667,-0.0404 0.25,-0.0626 l -25.5626,-94.9062 z m 154.25,0 -25.5624,94.9062 c 0.083,0.0222 0.1667,0.0403 0.25,0.0626 l 25.3124,-94.9688 z m -226.125,29.75 49.0626,85.2188 c 0.073,-0.0422 0.1459,-0.083 0.2187,-0.125 L 1033.0312,6.543 z m 298,0 -49.25,85.0625 c 0.073,0.0423 0.1457,0.0826 0.2188,0.125 L 1331.0312,6.543 z m -359.7187,47.375 69.4375,69.625 c 0.062,-0.0625 0.125,-0.1251 0.1875,-0.1875 L 971.3125,53.918 z m 421.4375,0 -69.625,69.4375 c 0.063,0.0625 0.125,0.1249 0.1875,0.1875 L 1392.75,53.918 z m -468.78125,61.7188 85.06245,49.25 c 0.042,-0.073 0.083,-0.1459 0.125,-0.2188 l -85.18745,-49.0312 z m 516.15625,0 -85.1875,49.0312 c 0.042,0.0731 0.083,0.1456 0.125,0.2188 l 85.0625,-49.25 z m -545.9375,71.875 94.90625,25.5624 c 0.0222,-0.0832 0.0402,-0.1667 0.0625,-0.25 L 894.1875,187.5118 z m 575.6875,0 -94.9688,25.3124 c 0.022,0.0831 0.04,0.167 0.063,0.25 l 94.9062,-25.5624 z m -487.5,77 -98.34375,0.125 98.34375,0.125 c -3e-5,-0.0418 0,-0.0833 0,-0.125 0,-0.0418 -3e-5,-0.0833 0,-0.125 z m 399.3438,0 c 0,0.0417 0,0.0832 0,0.125 0,0.0417 0,0.0832 0,0.125 l 98.3124,-0.125 -98.3124,-0.125 z m -392.62505,51.6874 -94.90625,25.5626 94.96875,-25.3126 c -0.0223,-0.0832 -0.0403,-0.1667 -0.0625,-0.25 z m 385.87505,0 c -0.022,0.0831 -0.04,0.167 -0.063,0.25 l 94.9688,25.3126 -94.9062,-25.5626 z m -19.9376,48.1563 c -0.042,0.0728 -0.083,0.146 -0.125,0.2187 l 85.2188,49.0626 -85.0938,-49.2813 z m -346,0.0313 -85.06245,49.25 85.18745,-49.0313 c -0.042,-0.0725 -0.083,-0.1462 -0.125,-0.2187 z m 31.7188,41.3437 -69.4375,69.625 69.625,-69.4375 c -0.062,-0.0624 -0.1251,-0.125 -0.1875,-0.1875 z m 282.5625,0 c -0.062,0.0626 -0.1249,0.125 -0.1875,0.1875 l 69.625,69.4375 -69.4375,-69.625 z m -241.25,31.7813 -49.0313,85.1874 49.25,-85.0624 c -0.072,-0.042 -0.1462,-0.083 -0.2187,-0.125 z m 199.9375,0 c -0.073,0.0422 -0.1458,0.0828 -0.2188,0.125 l 49.25,85.0624 L 1282,437.5118 z m -151.7812,20 -25.3126,94.9687 25.5626,-94.9063 c -0.083,-0.0221 -0.1668,-0.0402 -0.25,-0.0624 z m 103.625,0 c -0.083,0.0222 -0.1668,0.0403 -0.25,0.0624 l 25.5624,94.9063 -25.3124,-94.9687 z m -51.9376,6.7812 0.125,98.3438 0.125,-98.3438 c -0.042,0 -0.083,0 -0.125,0 -0.042,0 -0.083,0 -0.125,0 z"
+       id="path4539"
+       inkscape:connector-curvature="0"
+       clip-path="url(#clipPath4075-1)" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3267"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Muli;-inkscape-font-specification:Muli Semi-Light"
+       transform="translate(-1729.0894,-1596.5355)"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-640.png"
+       inkscape:export-xdpi="61.592663"
+       inkscape:export-ydpi="61.592663"><flowRegion
+         id="flowRegion3269"><rect
+           id="rect3271"
+           width="496.99506"
+           height="238.396"
+           x="199.00005"
+           y="134.04204"
+           style="font-style:normal;font-variant:normal;font-stretch:normal;font-family:Muli;-inkscape-font-specification:Muli Semi-Light" /></flowRegion><flowPara
+         id="flowPara3273">is</flowPara></flowRoot>    <path
+       inkscape:export-ydpi="61.592663"
+       inkscape:export-xdpi="61.592663"
+       inkscape:export-filename="/home/cmiller/Desktop/imagine-fragment-640.png"
+       clip-path="url(#clipPath4015)"
+       sodipodi:end="3.1415927"
+       sodipodi:start="0"
+       transform="matrix(0.2964892,0,0,0.29956684,-1352.2801,-1050.0061)"
+       d="m 751.55347,-1444.8264 a 563.6651,555.58392 0 1 1 -1127.3302,0 l 563.6651,0 z"
+       sodipodi:ry="555.58392"
+       sodipodi:rx="563.6651"
+       sodipodi:cy="-1444.8264"
+       sodipodi:cx="187.88837"
+       id="path4541"
+       style="color:#000000;fill:#5bac6a;fill-opacity:0;fill-rule:evenodd;stroke:#e5e000;stroke-width:67.10867859000001090;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter3872);enable-background:accumulate"
+       sodipodi:type="arc" />
+    <path
+       inkscape:export-ydpi="67.129997"
+       inkscape:export-xdpi="67.129997"
+       inkscape:export-filename="/home/cmiller/pers/solarmodel-web-site/images/osm-icon-500.png"
+       sodipodi:nodetypes="csc"
+       inkscape:connector-curvature="0"
+       id="path4543"
+       d="m -2083.6938,-123.1884 c 0,-91.9192 74.8224,-166.4345 167.1206,-166.4345 92.2982,0 167.1206,74.5153 167.1206,166.4345"
+       style="color:#000000;fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke:#008016;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       inkscape:export-ydpi="67.129997"
+       inkscape:export-xdpi="67.129997"
+       inkscape:export-filename="/home/cmiller/pers/solarmodel-web-site/images/osm-icon-500.png"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m -2184.9235,-156.9181 c 0,0 0,0 0,0 0,18.1235 14.8587,32.8155 33.1879,32.8155 18.3291,0 33.1879,-14.692 33.1879,-32.8155"
+       id="path4545"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="67.129997"
+       inkscape:export-xdpi="67.129997"
+       inkscape:export-filename="/home/cmiller/pers/solarmodel-web-site/images/osm-icon-500.png"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m -1919.6347,-156.9181 c 0,0 0,0 0,0 0,18.1235 14.8587,32.8155 33.1878,32.8155 18.3292,0 33.1879,-14.692 33.1879,-32.8155"
+       id="path4547"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="67.129997"
+       inkscape:export-xdpi="67.129997"
+       inkscape:export-filename="/home/cmiller/pers/solarmodel-web-site/images/osm-icon-500.png"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m -2118.6013,-156.9181 c 0,0 0,0 0,0 0,18.1235 14.8587,32.8155 33.1879,32.8155 18.3291,0 33.1879,-14.692 33.1879,-32.8155"
+       id="path4549"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="67.129997"
+       inkscape:export-xdpi="67.129997"
+       inkscape:export-filename="/home/cmiller/pers/solarmodel-web-site/images/osm-icon-500.png"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m -1786.9903,-156.9181 c 0,0 0,0 0,0 0,18.1235 14.8587,32.8155 33.1878,32.8155 18.3292,0 33.1879,-14.692 33.1879,-32.8155"
+       id="path4551"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="67.129997"
+       inkscape:export-xdpi="67.129997"
+       inkscape:export-filename="/home/cmiller/pers/solarmodel-web-site/images/osm-icon-500.png"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m -1720.6682,-156.9181 c 0,0 0,0 0,0 0,18.1235 14.8588,32.8155 33.1879,32.8155 18.3292,0 33.1879,-14.692 33.1879,-32.8155"
+       id="path4553"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="67.129997"
+       inkscape:export-xdpi="67.129997"
+       inkscape:export-filename="/home/cmiller/pers/solarmodel-web-site/images/osm-icon-500.png"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m -2251.2457,-156.9181 c 0,0 0,0 0,0 0,18.1235 14.8587,32.8155 33.1879,32.8155 18.3292,0 33.1879,-14.692 33.1879,-32.8155"
+       id="path4555"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="67.129997"
+       inkscape:export-xdpi="67.129997"
+       inkscape:export-filename="/home/cmiller/pers/solarmodel-web-site/images/osm-icon-500.png"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m -1654.346,-156.9181 c 0,0 0,0 0,0 0,18.1235 14.8587,32.8155 33.1879,32.8155 18.3292,0 33.1879,-14.692 33.1879,-32.8155"
+       id="path4557"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="67.129997"
+       inkscape:export-xdpi="67.129997"
+       inkscape:export-filename="/home/cmiller/pers/solarmodel-web-site/images/osm-icon-500.png"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m -2052.2791,-156.9181 c 0,0 0,0 0,0 0,18.1235 14.8587,32.8155 33.1879,32.8155 18.3291,0 33.1879,-14.692 33.1879,-32.8155"
+       id="path4559"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="67.129997"
+       inkscape:export-xdpi="67.129997"
+       inkscape:export-filename="/home/cmiller/pers/solarmodel-web-site/images/osm-icon-500.png"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m -1985.9569,-156.9181 c 0,0 0,0 0,0 0,18.1235 14.8587,32.8155 33.1879,32.8155 18.3291,0 33.1879,-14.692 33.1879,-32.8155"
+       id="path4561"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="67.129997"
+       inkscape:export-xdpi="67.129997"
+       inkscape:export-filename="/home/cmiller/pers/solarmodel-web-site/images/osm-icon-500.png"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m -1853.3125,-156.9181 c 0,0 0,0 0,0 0,18.1235 14.8587,32.8155 33.1878,32.8155 18.3292,0 33.1879,-14.692 33.1879,-32.8155"
+       id="path4563"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4565"
+       d="m -2184.9235,-156.9181 c 0,0 0,0 0,0 0,18.1235 14.8587,32.8155 33.1879,32.8155 18.3291,0 33.1879,-14.692 33.1879,-32.8155"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/cmiller/pers/solarmodel-web-site/images/osm-icon-500.png"
+       inkscape:export-xdpi="67.129997"
+       inkscape:export-ydpi="67.129997" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4567"
+       d="m -1919.6347,-156.9181 c 0,0 0,0 0,0 0,18.1235 14.8587,32.8155 33.1878,32.8155 18.3292,0 33.1879,-14.692 33.1879,-32.8155"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/cmiller/pers/solarmodel-web-site/images/osm-icon-500.png"
+       inkscape:export-xdpi="67.129997"
+       inkscape:export-ydpi="67.129997" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4569"
+       d="m -2118.6013,-156.9181 c 0,0 0,0 0,0 0,18.1235 14.8587,32.8155 33.1879,32.8155 18.3291,0 33.1879,-14.692 33.1879,-32.8155"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/cmiller/pers/solarmodel-web-site/images/osm-icon-500.png"
+       inkscape:export-xdpi="67.129997"
+       inkscape:export-ydpi="67.129997" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4571"
+       d="m -1786.9903,-156.9181 c 0,0 0,0 0,0 0,18.1235 14.8587,32.8155 33.1878,32.8155 18.3292,0 33.1879,-14.692 33.1879,-32.8155"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/cmiller/pers/solarmodel-web-site/images/osm-icon-500.png"
+       inkscape:export-xdpi="67.129997"
+       inkscape:export-ydpi="67.129997" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4573"
+       d="m -1720.6682,-156.9181 c 0,0 0,0 0,0 0,18.1235 14.8588,32.8155 33.1879,32.8155 18.3292,0 33.1879,-14.692 33.1879,-32.8155"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/cmiller/pers/solarmodel-web-site/images/osm-icon-500.png"
+       inkscape:export-xdpi="67.129997"
+       inkscape:export-ydpi="67.129997" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4575"
+       d="m -2251.2457,-156.9181 c 0,0 0,0 0,0 0,18.1235 14.8587,32.8155 33.1879,32.8155 18.3292,0 33.1879,-14.692 33.1879,-32.8155"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/cmiller/pers/solarmodel-web-site/images/osm-icon-500.png"
+       inkscape:export-xdpi="67.129997"
+       inkscape:export-ydpi="67.129997" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4577"
+       d="m -1654.346,-156.9181 c 0,0 0,0 0,0 0,18.1235 14.8587,32.8155 33.1879,32.8155 18.3292,0 33.1879,-14.692 33.1879,-32.8155"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/cmiller/pers/solarmodel-web-site/images/osm-icon-500.png"
+       inkscape:export-xdpi="67.129997"
+       inkscape:export-ydpi="67.129997" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4579"
+       d="m -2052.2791,-156.9181 c 0,0 0,0 0,0 0,18.1235 14.8587,32.8155 33.1879,32.8155 18.3291,0 33.1879,-14.692 33.1879,-32.8155"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/cmiller/pers/solarmodel-web-site/images/osm-icon-500.png"
+       inkscape:export-xdpi="67.129997"
+       inkscape:export-ydpi="67.129997" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4581"
+       d="m -1985.9569,-156.9181 c 0,0 0,0 0,0 0,18.1235 14.8587,32.8155 33.1879,32.8155 18.3291,0 33.1879,-14.692 33.1879,-32.8155"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/cmiller/pers/solarmodel-web-site/images/osm-icon-500.png"
+       inkscape:export-xdpi="67.129997"
+       inkscape:export-ydpi="67.129997" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4583"
+       d="m -1853.3125,-156.9181 c 0,0 0,0 0,0 0,18.1235 14.8587,32.8155 33.1878,32.8155 18.3292,0 33.1879,-14.692 33.1879,-32.8155"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/cmiller/pers/solarmodel-web-site/images/osm-icon-500.png"
+       inkscape:export-xdpi="67.129997"
+       inkscape:export-ydpi="67.129997" />
+    <g
+       id="g4585"
+       transform="matrix(0.47248493,0,0,0.25363826,-2534.6914,63.320099)"
+       style="stroke-width:20.47092247;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="/home/cmiller/pers/solarmodel-web-site/images/osm-icon-500.png"
+       inkscape:export-xdpi="67.129997"
+       inkscape:export-ydpi="67.129997">
+      <path
+         sodipodi:nodetypes="ccccccccccccccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path4587"
+         d="m 1348.2244,-1477.6501 0,-19.1008 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 c -0.6105,-157.0536 139.3895,-157.0536 136.2727,2.0782"
+         style="fill:none;stroke:#314fc5;stroke-width:20.47092247;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         style="fill:none;stroke:#314fc5;stroke-width:20.47092247;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 1308.1213,-1477.6501 0,-214.4196 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 c -0.6105,-157.0536 139.3895,-157.0536 136.2727,2.0782"
+         id="path4589"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccc" />
+      <path
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path4591"
+         d="m 1268.2322,-1477.6501 0,-71.7519 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 c 0.6105,-157.0536 -139.3895,-157.0536 -136.2727,2.0782"
+         style="fill:none;stroke:#314fc5;stroke-width:20.47092247;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <path
+       clip-path="url(#clipPath4075-1)"
+       inkscape:connector-curvature="0"
+       id="path4593"
+       d="m 1182.0312,-33.3632 -0.125,98.3124 c 0.042,0 0.083,0 0.125,0 0.042,0 0.083,0 0.125,0 l -0.125,-98.3124 z m -77.125,10.1562 25.3126,94.9688 c 0.083,-0.0223 0.1667,-0.0404 0.25,-0.0626 l -25.5626,-94.9062 z m 154.25,0 -25.5624,94.9062 c 0.083,0.0222 0.1667,0.0403 0.25,0.0626 l 25.3124,-94.9688 z m -226.125,29.75 49.0626,85.2188 c 0.073,-0.0422 0.1459,-0.083 0.2187,-0.125 L 1033.0312,6.543 z m 298,0 -49.25,85.0625 c 0.073,0.0423 0.1457,0.0826 0.2188,0.125 L 1331.0312,6.543 z m -359.7187,47.375 69.4375,69.625 c 0.062,-0.0625 0.125,-0.1251 0.1875,-0.1875 L 971.3125,53.918 z m 421.4375,0 -69.625,69.4375 c 0.063,0.0625 0.125,0.1249 0.1875,0.1875 L 1392.75,53.918 z m -468.78125,61.7188 85.06245,49.25 c 0.042,-0.073 0.083,-0.1459 0.125,-0.2188 l -85.18745,-49.0312 z m 516.15625,0 -85.1875,49.0312 c 0.042,0.0731 0.083,0.1456 0.125,0.2188 l 85.0625,-49.25 z m -545.9375,71.875 94.90625,25.5624 c 0.0222,-0.0832 0.0402,-0.1667 0.0625,-0.25 L 894.1875,187.5118 z m 575.6875,0 -94.9688,25.3124 c 0.022,0.0831 0.04,0.167 0.063,0.25 l 94.9062,-25.5624 z m -487.5,77 -98.34375,0.125 98.34375,0.125 c -3e-5,-0.0418 0,-0.0833 0,-0.125 0,-0.0418 -3e-5,-0.0833 0,-0.125 z m 399.3438,0 c 0,0.0417 0,0.0832 0,0.125 0,0.0417 0,0.0832 0,0.125 l 98.3124,-0.125 -98.3124,-0.125 z m -392.62505,51.6874 -94.90625,25.5626 94.96875,-25.3126 c -0.0223,-0.0832 -0.0403,-0.1667 -0.0625,-0.25 z m 385.87505,0 c -0.022,0.0831 -0.04,0.167 -0.063,0.25 l 94.9688,25.3126 -94.9062,-25.5626 z m -19.9376,48.1563 c -0.042,0.0728 -0.083,0.146 -0.125,0.2187 l 85.2188,49.0626 -85.0938,-49.2813 z m -346,0.0313 -85.06245,49.25 85.18745,-49.0313 c -0.042,-0.0725 -0.083,-0.1462 -0.125,-0.2187 z m 31.7188,41.3437 -69.4375,69.625 69.625,-69.4375 c -0.062,-0.0624 -0.1251,-0.125 -0.1875,-0.1875 z m 282.5625,0 c -0.062,0.0626 -0.1249,0.125 -0.1875,0.1875 l 69.625,69.4375 -69.4375,-69.625 z m -241.25,31.7813 -49.0313,85.1874 49.25,-85.0624 c -0.072,-0.042 -0.1462,-0.083 -0.2187,-0.125 z m 199.9375,0 c -0.073,0.0422 -0.1458,0.0828 -0.2188,0.125 l 49.25,85.0624 L 1282,437.5118 z m -151.7812,20 -25.3126,94.9687 25.5626,-94.9063 c -0.083,-0.0221 -0.1668,-0.0402 -0.25,-0.0624 z m 103.625,0 c -0.083,0.0222 -0.1668,0.0403 -0.25,0.0624 l 25.5624,94.9063 -25.3124,-94.9687 z m -51.9376,6.7812 0.125,98.3438 0.125,-98.3438 c -0.042,0 -0.083,0 -0.125,0 -0.042,0 -0.083,0 -0.125,0 z"
+       mask="none"
+       style="fill:none;stroke:#e5e000;stroke-width:8.69999981;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:13.91999969;display:inline"
+       transform="translate(-3098.6045,-382.7929)"
+       inkscape:export-filename="/home/cmiller/pers/solarmodel-web-site/images/osm-icon-500.png"
+       inkscape:export-xdpi="67.129997"
+       inkscape:export-ydpi="67.129997" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#5bac6a;fill-opacity:0;fill-rule:evenodd;stroke:#e5e000;stroke-width:67.10868073;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter3872);enable-background:accumulate"
+       id="path4595"
+       sodipodi:cx="187.88837"
+       sodipodi:cy="-1444.8264"
+       sodipodi:rx="563.6651"
+       sodipodi:ry="555.58392"
+       d="m 751.55347,-1444.8264 a 563.6651,555.58392 0 1 1 -1127.3302,0 l 563.6651,0 z"
+       transform="matrix(0.2964892,0,0,0.29956684,-1972.2801,313.9939)"
+       sodipodi:start="0"
+       sodipodi:end="3.1415927"
+       clip-path="url(#clipPath4015)"
+       inkscape:export-filename="/home/cmiller/pers/solarmodel-web-site/images/osm-icon-500.png"
+       inkscape:export-xdpi="67.129997"
+       inkscape:export-ydpi="67.129997" />
+    <path
+       style="color:#000000;fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke:#008016;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m -3710.7648,128.14784 c 0,-69.153 56.2629,-125.212599 125.6668,-125.212599 69.4039,0 125.6668,56.059599 125.6668,125.212599"
+       id="path3181-9-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csc"
+       inkscape:export-filename="/home/cmiller/pers/solarmodel-web-site/images/es-rect-500.png"
+       inkscape:export-xdpi="57.353203"
+       inkscape:export-ydpi="57.353203" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3185-5-8"
+       d="m -3786.8848,102.77224 c 0,0 0,0 0,0 0,13.6347 11.1731,24.6879 24.9558,24.6879 13.7826,0 24.9557,-11.0532 24.9557,-24.6879"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/cmiller/pers/solarmodel-web-site/images/es-rect-500.png"
+       inkscape:export-xdpi="57.353203"
+       inkscape:export-ydpi="57.353203" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3187-8-8"
+       d="m -3587.4001,102.77224 c 0,0 0,0 0,0 0,13.6347 11.1731,24.6879 24.9557,24.6879 13.7827,0 24.9557,-11.0532 24.9557,-24.6879"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/cmiller/pers/solarmodel-web-site/images/es-rect-500.png"
+       inkscape:export-xdpi="57.353203"
+       inkscape:export-ydpi="57.353203" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3189-3-1"
+       d="m -3737.0136,102.77224 c 0,0 0,0 0,0 0,13.6347 11.1731,24.6879 24.9558,24.6879 13.7826,0 24.9557,-11.0532 24.9557,-24.6879"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/cmiller/pers/solarmodel-web-site/images/es-rect-500.png"
+       inkscape:export-xdpi="57.353203"
+       inkscape:export-ydpi="57.353203" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3191-1-6"
+       d="m -3487.6577,102.77224 c 0,0 0,0 0,0 0,13.6347 11.173,24.6879 24.9556,24.6879 13.7827,0 24.9558,-11.0532 24.9558,-24.6879"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/cmiller/pers/solarmodel-web-site/images/es-rect-500.png"
+       inkscape:export-xdpi="57.353203"
+       inkscape:export-ydpi="57.353203" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3193-4-3"
+       d="m -3437.7866,102.77224 c 0,0 0,0 0,0 0,13.6347 11.1731,24.6879 24.9557,24.6879 13.7827,0 24.9557,-11.0532 24.9557,-24.6879"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/cmiller/pers/solarmodel-web-site/images/es-rect-500.png"
+       inkscape:export-xdpi="57.353203"
+       inkscape:export-ydpi="57.353203" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3195-4-0"
+       d="m -3836.7559,102.77224 c 0,0 0,0 0,0 0,13.6347 11.173,24.6879 24.9557,24.6879 13.7827,0 24.9558,-11.0532 24.9558,-24.6879"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/cmiller/pers/solarmodel-web-site/images/es-rect-500.png"
+       inkscape:export-xdpi="57.353203"
+       inkscape:export-ydpi="57.353203" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3197-2-6"
+       d="m -3387.9155,102.77224 c 0,0 0,0 0,0 0,13.6347 11.1731,24.6879 24.9558,24.6879 13.7827,0 24.9557,-11.0532 24.9557,-24.6879"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/cmiller/pers/solarmodel-web-site/images/es-rect-500.png"
+       inkscape:export-xdpi="57.353203"
+       inkscape:export-ydpi="57.353203" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3203-0-2"
+       d="m -3687.1424,102.77224 c 0,0 0,0 0,0 0,13.6347 11.173,24.6879 24.9557,24.6879 13.7826,0 24.9558,-11.0532 24.9558,-24.6879"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/cmiller/pers/solarmodel-web-site/images/es-rect-500.png"
+       inkscape:export-xdpi="57.353203"
+       inkscape:export-ydpi="57.353203" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3205-2-3"
+       d="m -3637.2712,102.77224 c 0,0 0,0 0,0 0,13.6347 11.173,24.6879 24.9557,24.6879 13.7826,0 24.9557,-11.0532 24.9557,-24.6879"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/cmiller/pers/solarmodel-web-site/images/es-rect-500.png"
+       inkscape:export-xdpi="57.353203"
+       inkscape:export-ydpi="57.353203" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3207-2-6"
+       d="m -3537.5289,102.77224 c 0,0 0,0 0,0 0,13.6347 11.173,24.6879 24.9557,24.6879 13.7827,0 24.9557,-11.0532 24.9557,-24.6879"
+       style="color:#000000;fill:#5b5a6a;fill-opacity:0;fill-rule:evenodd;stroke:#314fc5;stroke-width:7.08661366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/cmiller/pers/solarmodel-web-site/images/es-rect-500.png"
+       inkscape:export-xdpi="57.353203"
+       inkscape:export-ydpi="57.353203" />
+    <g
+       id="g3209-0-4"
+       transform="matrix(0.35528641,0,0,0.12872144,-4049.8937,177.85864)"
+       style="stroke-width:20.47092247;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+       inkscape:export-filename="/home/cmiller/pers/solarmodel-web-site/images/es-rect-500.png"
+       inkscape:export-xdpi="57.353203"
+       inkscape:export-ydpi="57.353203">
+      <path
+         sodipodi:nodetypes="ccccccccccccccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path3211-2-3"
+         d="m 1348.2244,-1477.6501 0,-19.1008 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 c -0.6105,-157.0536 139.3895,-157.0536 136.2727,2.0782"
+         style="fill:none;stroke:#314fc5;stroke-width:33.13782883;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         style="fill:none;stroke:#314fc5;stroke-width:33.13782883;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 1308.1213,-1477.6501 0,-214.4196 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 c -0.6105,-157.0536 139.3895,-157.0536 136.2727,2.0782"
+         id="path3213-5-1"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccc" />
+      <path
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path3215-0-0"
+         d="m 1268.2322,-1477.6501 0,-71.7519 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 0,-22.8125 c 0.6105,-157.0536 -139.3895,-157.0536 -136.2727,2.0782"
+         style="fill:none;stroke:#314fc5;stroke-width:33.13782883;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <path
+       clip-path="url(#clipPath4075-1-9-3)"
+       inkscape:connector-curvature="0"
+       id="path3285-1-9"
+       d="m 1182.0312,-33.3632 -0.125,98.3124 c 0.042,0 0.083,0 0.125,0 0.042,0 0.083,0 0.125,0 l -0.125,-98.3124 z m -77.125,10.1562 25.3126,94.9688 c 0.083,-0.0223 0.1667,-0.0404 0.25,-0.0626 l -25.5626,-94.9062 z m 154.25,0 -25.5624,94.9062 c 0.083,0.0222 0.1667,0.0403 0.25,0.0626 l 25.3124,-94.9688 z m -226.125,29.75 49.0626,85.2188 c 0.073,-0.0422 0.1459,-0.083 0.2187,-0.125 L 1033.0312,6.543 z m 298,0 -49.25,85.0625 c 0.073,0.0423 0.1457,0.0826 0.2188,0.125 L 1331.0312,6.543 z m -359.7187,47.375 69.4375,69.625 c 0.062,-0.0625 0.125,-0.1251 0.1875,-0.1875 L 971.3125,53.918 z m 421.4375,0 -69.625,69.4375 c 0.063,0.0625 0.125,0.1249 0.1875,0.1875 L 1392.75,53.918 z m -468.78125,61.7188 85.06245,49.25 c 0.042,-0.073 0.083,-0.1459 0.125,-0.2188 l -85.18745,-49.0312 z m 516.15625,0 -85.1875,49.0312 c 0.042,0.0731 0.083,0.1456 0.125,0.2188 l 85.0625,-49.25 z m -545.9375,71.875 94.90625,25.5624 c 0.0222,-0.0832 0.0402,-0.1667 0.0625,-0.25 L 894.1875,187.5118 z m 575.6875,0 -94.9688,25.3124 c 0.022,0.0831 0.04,0.167 0.063,0.25 l 94.9062,-25.5624 z m -487.5,77 -98.34375,0.125 98.34375,0.125 c -3e-5,-0.0418 0,-0.0833 0,-0.125 0,-0.0418 -3e-5,-0.0833 0,-0.125 z m 399.3438,0 c 0,0.0417 0,0.0832 0,0.125 0,0.0417 0,0.0832 0,0.125 l 98.3124,-0.125 -98.3124,-0.125 z m -392.62505,51.6874 -94.90625,25.5626 94.96875,-25.3126 c -0.0223,-0.0832 -0.0403,-0.1667 -0.0625,-0.25 z m 385.87505,0 c -0.022,0.0831 -0.04,0.167 -0.063,0.25 l 94.9688,25.3126 -94.9062,-25.5626 z m -19.9376,48.1563 c -0.042,0.0728 -0.083,0.146 -0.125,0.2187 l 85.2188,49.0626 -85.0938,-49.2813 z m -346,0.0313 -85.06245,49.25 85.18745,-49.0313 c -0.042,-0.0725 -0.083,-0.1462 -0.125,-0.2187 z m 31.7188,41.3437 -69.4375,69.625 69.625,-69.4375 c -0.062,-0.0624 -0.1251,-0.125 -0.1875,-0.1875 z m 282.5625,0 c -0.062,0.0626 -0.1249,0.125 -0.1875,0.1875 l 69.625,69.4375 -69.4375,-69.625 z m -241.25,31.7813 -49.0313,85.1874 49.25,-85.0624 c -0.072,-0.042 -0.1462,-0.083 -0.2187,-0.125 z m 199.9375,0 c -0.073,0.0422 -0.1458,0.0828 -0.2188,0.125 l 49.25,85.0624 L 1282,437.5118 z m -151.7812,20 -25.3126,94.9687 25.5626,-94.9063 c -0.083,-0.0221 -0.1668,-0.0402 -0.25,-0.0624 z m 103.625,0 c -0.083,0.0222 -0.1668,0.0403 -0.25,0.0624 l 25.5624,94.9063 -25.3124,-94.9687 z m -51.9376,6.7812 0.125,98.3438 0.125,-98.3438 c -0.042,0 -0.083,0 -0.125,0 -0.042,0 -0.083,0 -0.125,0 z"
+       mask="none"
+       style="fill:none;stroke:#e5e000;stroke-width:11.56702232;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:13.91999969;display:inline"
+       transform="matrix(0.75195289,0,0,0.75232365,-4473.9298,-67.158759)"
+       inkscape:export-filename="/home/cmiller/pers/solarmodel-web-site/images/es-rect-500.png"
+       inkscape:export-xdpi="57.353203"
+       inkscape:export-ydpi="57.353203" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#5bac6a;fill-opacity:0;fill-rule:evenodd;stroke:#e5e000;stroke-width:89.22386169;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter3872-48-6);enable-background:accumulate"
+       id="path3275-5-6"
+       sodipodi:cx="187.88837"
+       sodipodi:cy="-1444.8264"
+       sodipodi:rx="563.6651"
+       sodipodi:ry="555.58392"
+       d="m 751.55347,-1444.8264 a 563.6651,555.58392 0 1 1 -1127.3302,0 l 563.6651,0 z"
+       transform="matrix(0.22294591,0,0,0.22537122,-3626.9869,457.05044)"
+       sodipodi:start="0"
+       sodipodi:end="3.1415927"
+       clip-path="url(#clipPath4015-26-3)"
+       inkscape:export-filename="/home/cmiller/pers/solarmodel-web-site/images/es-rect-500.png"
+       inkscape:export-xdpi="57.353203"
+       inkscape:export-ydpi="57.353203" />
+    <flowRoot
+       transform="translate(30.3065,-1075.107)"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:none;stroke:#ffffff;stroke-width:12;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;filter:url(#filter4487-9);font-family:Muli;-inkscape-font-specification:Muli Semi-Light"
+       id="flowRoot3523-6"
+       xml:space="preserve"
+       inkscape:export-filename="/home/cmiller/pers/solarmodel-web-site/images/es-rect-500.png"
+       inkscape:export-xdpi="57.353203"
+       inkscape:export-ydpi="57.353203"><flowRegion
+         id="flowRegion3525-7"><rect
+           style="text-align:center;text-anchor:middle;fill:none;stroke:#ffffff;stroke-width:12;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           y="987.69312"
+           x="-3560.2842"
+           height="675.99915"
+           width="585.58276"
+           id="rect3527-6" /></flowRegion><flowPara
+         style="font-size:170px;font-style:italic;text-align:center;text-anchor:middle;fill:none;stroke:#ffffff;stroke-width:12;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;-inkscape-font-specification:Muli Semi-Light Italic"
+         id="flowPara3529-9">Eola Sun</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3487-5"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Muli;-inkscape-font-specification:Muli Semi-Light"
+       transform="translate(30.3065,-1075.107)"
+       inkscape:export-filename="/home/cmiller/pers/solarmodel-web-site/images/es-rect-500.png"
+       inkscape:export-xdpi="57.353203"
+       inkscape:export-ydpi="57.353203"><flowRegion
+         id="flowRegion3489-4"><rect
+           id="rect3491-8"
+           width="585.58276"
+           height="675.99915"
+           x="-3560.2842"
+           y="987.69312"
+           style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         id="flowPara3493-1"
+         style="font-size:170px;font-style:italic;text-align:center;text-anchor:middle;-inkscape-font-specification:Muli Semi-Light Italic">Eola Sun</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3515-9"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Muli;-inkscape-font-specification:Muli Semi-Light"
+       transform="translate(23.1644,-1312.107)"
+       inkscape:export-filename="/home/cmiller/pers/solarmodel-web-site/images/es-rect-500.png"
+       inkscape:export-xdpi="57.353203"
+       inkscape:export-ydpi="57.353203"><flowRegion
+         id="flowRegion3517-8"><rect
+           id="rect3519-7"
+           width="770"
+           height="163"
+           x="-3849"
+           y="1610.3069" /></flowRegion><flowPara
+         id="flowPara3521-8"
+         style="font-size:40px;text-align:center;text-anchor:middle">Largest solar-system model in the USA</flowPara></flowRoot>  </g>
+</svg>
