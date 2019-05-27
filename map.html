@@ -48,20 +48,13 @@ p.popabove {
       orbitspoints_xml = this.responseXML;
   
       if (! orbitspoints_xml) { console.log("invalid xml!"); return false; }
+
+      innerBoundaries = orbitspoints_xml.getElementsByTagName("innerBoundaryIs");
+
+      var choice = Math.floor(innerBoundaries.length * Math.random());
   
-      //resolver = document.createNSResolver(orbitspoints_xml.documentElement);
-      function resolver(prefix) {
-        var ns = {
-          "gx" : "http//www.google.com/kml/ext/2.2",
-          "atom" : "http//www.w3.org/2005/Atom" }
-        return ns[prefix] || "http//www.opengis.net/kml/2.2";
-      }
-      var xpath_expression = "/thisis:kml/sobad:Document/but:Folder/itseems:Folder/nullnamespace:Placemark/tagsdo:Polygon/notworl:innerBoundaryIs/atall:LinearRing/andso:coordinates";
-  
-      orbits = orbitspoints_xml.evaluate(xpath_expression, orbitspoints_xml, resolver, XPathResult.UNORDERED_NODE_SNAPSHOT_TYPE, null);
-      var choice = Math.floor(orbits.snapshotLength * Math.random());
-  
-      orbit = orbits.snapshotItem(choice);
+      orbit = innerBoundaries[choice].getElementsByTagName("coordinates")[0];
+
       coordinates = orbit.textContent.split(/\s+/).filter(Boolean);
 
       cursor = Math.floor(coordinates.length * Math.random());
